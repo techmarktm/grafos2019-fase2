@@ -1,0 +1,114 @@
+Instanciando o grafo do arquivo miles1500.col...
+O grafo nao sera orientado.
+O grafo nao sera ponderado.
+O Grafo possui 128 vertices e 10396 arestas.
+ITERACAO NUM 1 e seed: 1
+
+
+----------------------------------------------------------------------------------------------
+------------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO --------------------------------
+----------------------------------------------------------------------------------------------
+Numero cromatico com algoritmo guloso: 81.
+Tempo de Execucao: 0,003000 segundos.
+----------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------
+----------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO ----------------------
+----------------------------------------------------------------------------------------------
+
+
+Valor Alfa: 0,100000
+Valor Melhor Resultado: 79
+Valor Media: 80,599998
+Iteracoes executadas: 100
+Tempo de Execução: 0,442000 segundos.
+
+Valor Alfa: 0,300000
+Valor Melhor Resultado: 77
+Valor Media: 79,709999
+Iteracoes executadas: 100
+Tempo de Execução: 0,442000 segundos.
+
+Valor Alfa: 0,500000
+Valor Melhor Resultado: 75
+Valor Media: 77,580002
+Iteracoes executadas: 100
+Tempo de Execução: 0,442000 segundos.
+
+------------------------------------------------------------------------------------------------
+--------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
+----------------------------------------------------------------------------------------------
+
+
+Valor Alfa: 0,050000
+Valor Melhor Resultado: 79
+Valor Media: 80,656563
+Iteracoes executadas: 99
+Valor Probabilidade: 8,578461%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,100000
+Valor Melhor Resultado: 78
+Valor Media: 80,591667
+Iteracoes executadas: 120
+Valor Probabilidade: 9,665820%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,150000
+Valor Melhor Resultado: 78
+Valor Media: 80,441666
+Iteracoes executadas: 120
+Valor Probabilidade: 9,487413%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,200000
+Valor Melhor Resultado: 77
+Valor Media: 80,000000
+Iteracoes executadas: 120
+Valor Probabilidade: 10,215885%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,250000
+Valor Melhor Resultado: 77
+Valor Media: 79,791664
+Iteracoes executadas: 120
+Valor Probabilidade: 9,952937%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,300000
+Valor Melhor Resultado: 76
+Valor Media: 79,625000
+Iteracoes executadas: 120
+Valor Probabilidade: 11,108151%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,350000
+Valor Melhor Resultado: 76
+Valor Media: 79,216667
+Iteracoes executadas: 120
+Valor Probabilidade: 10,551474%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,400000
+Valor Melhor Resultado: 76
+Valor Media: 78,758331
+Iteracoes executadas: 120
+Valor Probabilidade: 9,956633%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,450000
+Valor Melhor Resultado: 76
+Valor Media: 78,183334
+Iteracoes executadas: 120
+Valor Probabilidade: 9,253144%
+Tempo de Execução: 1,640000 segundos.
+
+Valor Alfa: 0,500000
+Valor Melhor Resultado: 74
+Valor Media: 77,614288
+Iteracoes executadas: 140
+Valor Probabilidade: 11,230082%
+Tempo de Execução: 1,640000 segundos.
+----------------------------------------------------------------------------------------------
+

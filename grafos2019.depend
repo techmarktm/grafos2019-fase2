@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1570242392 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\aresta.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573003086 c:\users\bruno\documents\projetos codeblocks\grafos2019\grafo.h
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stack>
+	<math.h>
+
+1572564313 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\funcoesgerais.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1570221867 c:\users\bruno\documents\projetos codeblocks\grafos2019\funcoesgerais.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	<locale.h>
+	<ctime>
+
+1573003229 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1572567323 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\vertice.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573003033 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<locale.h>
+	<ctime>
+	<math.h>
+	<cstdlib>
+	<queue>
+	<stack>
+	<vector>
+	<algorithm>
+
+1573003140 source:c:\users\bruno\documents\projetos codeblocks\grafos2019\alfa.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573170182 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\alfa.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573171634 c:\users\tm\documents\code blocks\projetos\grafos2019-3\grafo.h
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stack>
+	<math.h>
+
+1573141638 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\aresta.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573171645 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\funcoesgerais.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573141638 c:\users\tm\documents\code blocks\projetos\grafos2019-3\funcoesgerais.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	<locale.h>
+	<ctime>
+
+1573172926 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<locale.h>
+	<ctime>
+	<math.h>
+	<cstdlib>
+	<queue>
+	<stack>
+	<vector>
+	<algorithm>
+
+1573141638 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\vertice.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573172290 source:c:\users\tm\documents\code blocks\projetos\grafos2019-3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573184887 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\alfa.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573186333 c:\users\bruno\documents\projetos codeblocks\grafos2019-3\grafo.h
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stack>
+	<math.h>
+
+1573184887 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\aresta.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573184887 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\funcoesgerais.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573184887 c:\users\bruno\documents\projetos codeblocks\grafos2019-3\funcoesgerais.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	<locale.h>
+	<ctime>
+
+1573188949 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<locale.h>
+	<ctime>
+	<math.h>
+	<cstdlib>
+	<queue>
+	<stack>
+	<vector>
+	<algorithm>
+
+1573189340 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573184887 source:c:\users\bruno\documents\projetos codeblocks\grafos2019-3\vertice.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
