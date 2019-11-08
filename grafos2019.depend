@@ -218,3 +218,76 @@
 	<string>
 	<sstream>
 
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\alfa.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573228149 c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.h
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stack>
+	<math.h>
+
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\aresta.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\funcoesgerais.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573228149 c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\funcoesgerais.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	<locale.h>
+	<ctime>
+
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.cpp
+	"grafo.h"
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<locale.h>
+	<ctime>
+	<math.h>
+	<cstdlib>
+	<queue>
+	<stack>
+	<vector>
+	<algorithm>
+
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	"grafo.h"
+	"funcoesGerais.h"
+	<locale.h>
+	<ctime>
+
+1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\vertice.cpp
+	"grafo.h"
+	<iostream>
+	<string>
+	<sstream>
+

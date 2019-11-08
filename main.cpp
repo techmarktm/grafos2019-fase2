@@ -118,7 +118,7 @@ int main(int argc, char *argv[]) {
     int tamVetAlfasReat = (sizeof(vetAlfasReat)/sizeof(*vetAlfasReat));
 
     //Define quantas iteracoes serao executadas para cada instancia de entrada
-    int numIteracoes = 10;
+    int numIteracoes = 30;
 
     clockIni = clock();
 
