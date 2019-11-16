@@ -14,19 +14,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,271999
 Iteracoes executadas: 500
-Tempo de Execução: 5,421000 segundos.
+Tempo de Execução: 9,841000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,737999
 Iteracoes executadas: 500
-Tempo de Execução: 5,421000 segundos.
+Tempo de Execução: 9,841000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,217999
 Iteracoes executadas: 500
-Tempo de Execução: 5,421000 segundos.
+Tempo de Execução: 9,841000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -34,74 +34,74 @@ Tempo de Execução: 5,421000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 47
-Valor Media: 50,282352
-Iteracoes executadas: 170
-Valor Probabilidade: 10,352819%
-Tempo de Execução: 6,088000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,487309
+Iteracoes executadas: 197
+Valor Probabilidade: 12,261484%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,164707
-Iteracoes executadas: 170
-Valor Probabilidade: 10,113131%
-Tempo de Execução: 6,088000 segundos.
+Valor Media: 50,086666
+Iteracoes executadas: 150
+Valor Probabilidade: 9,131492%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 50,264706
-Iteracoes executadas: 170
-Valor Probabilidade: 10,316547%
-Tempo de Execução: 6,088000 segundos.
+Valor Media: 49,910828
+Iteracoes executadas: 157
+Valor Probabilidade: 8,815934%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 49,846153
-Iteracoes executadas: 39
-Valor Probabilidade: 9,488974%
-Tempo de Execução: 6,088000 segundos.
+Valor Media: 49,974358
+Iteracoes executadas: 156
+Valor Probabilidade: 8,928793%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 50,250000
-Iteracoes executadas: 20
-Valor Probabilidade: 8,333545%
-Tempo de Execução: 6,088000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,872223
+Iteracoes executadas: 180
+Valor Probabilidade: 10,846957%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 46
-Valor Media: 49,549999
-Iteracoes executadas: 320
-Valor Probabilidade: 11,085098%
-Tempo de Execução: 6,088000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,757763
+Iteracoes executadas: 161
+Valor Probabilidade: 8,549272%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,523335
-Iteracoes executadas: 300
-Valor Probabilidade: 11,025591%
-Tempo de Execução: 6,088000 segundos.
+Valor Media: 49,664772
+Iteracoes executadas: 176
+Valor Probabilidade: 10,404120%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,160517%
-Tempo de Execução: 6,088000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,365269
+Iteracoes executadas: 167
+Valor Probabilidade: 9,793454%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,268749
-Iteracoes executadas: 320
-Valor Probabilidade: 10,471728%
-Tempo de Execução: 6,088000 segundos.
+Valor Media: 49,162792
+Iteracoes executadas: 172
+Valor Probabilidade: 9,399096%
+Tempo de Execução: 13,009000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,352940
-Iteracoes executadas: 170
-Valor Probabilidade: 10,652051%
-Tempo de Execução: 6,088000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,229507
+Iteracoes executadas: 183
+Valor Probabilidade: 11,869404%
+Tempo de Execução: 13,009000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 2 de 30. Seed: 4
@@ -116,19 +116,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,240002
 Iteracoes executadas: 500
-Tempo de Execução: 5,397000 segundos.
+Tempo de Execução: 11,565000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,688000
 Iteracoes executadas: 500
-Tempo de Execução: 5,397000 segundos.
+Tempo de Execução: 11,565000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,243999
 Iteracoes executadas: 500
-Tempo de Execução: 5,397000 segundos.
+Tempo de Execução: 11,565000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -136,74 +136,74 @@ Tempo de Execução: 5,397000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 48
-Valor Media: 50,349998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,070604%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,679485
+Iteracoes executadas: 156
+Valor Probabilidade: 9,642871%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 50,000000
-Iteracoes executadas: 20
-Valor Probabilidade: 7,526822%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,134148
+Iteracoes executadas: 164
+Valor Probabilidade: 10,730526%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 49,974998
-Iteracoes executadas: 320
-Valor Probabilidade: 11,462341%
-Tempo de Execução: 6,512000 segundos.
+Valor Media: 50,122807
+Iteracoes executadas: 171
+Valor Probabilidade: 10,706279%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 46
-Valor Media: 49,888889
-Iteracoes executadas: 189
-Valor Probabilidade: 11,266368%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,876545
+Iteracoes executadas: 162
+Valor Probabilidade: 8,219548%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 50,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 10,262636%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,811829
+Iteracoes executadas: 186
+Valor Probabilidade: 10,060266%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,603127
-Iteracoes executadas: 320
-Valor Probabilidade: 10,637415%
-Tempo de Execução: 6,512000 segundos.
+Valor Media: 49,558281
+Iteracoes executadas: 163
+Valor Probabilidade: 9,559761%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,487537%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,519482
+Iteracoes executadas: 154
+Valor Probabilidade: 9,485178%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 46
-Valor Media: 49,317646
-Iteracoes executadas: 170
-Valor Probabilidade: 10,040817%
-Tempo de Execução: 6,512000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,372093
+Iteracoes executadas: 172
+Valor Probabilidade: 11,469736%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,294117
-Iteracoes executadas: 170
-Valor Probabilidade: 9,993011%
-Tempo de Execução: 6,512000 segundos.
+Valor Media: 49,254238
+Iteracoes executadas: 177
+Valor Probabilidade: 8,989192%
+Tempo de Execução: 13,323000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
-Valor Media: 49,215557
-Iteracoes executadas: 450
-Valor Probabilidade: 12,252445%
-Tempo de Execução: 6,512000 segundos.
+Valor Media: 49,226803
+Iteracoes executadas: 194
+Valor Probabilidade: 11,136637%
+Tempo de Execução: 13,323000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 3 de 30. Seed: 7
@@ -218,19 +218,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,186001
 Iteracoes executadas: 500
-Tempo de Execução: 5,822000 segundos.
+Tempo de Execução: 11,829000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,549999
 Iteracoes executadas: 500
-Tempo de Execução: 5,822000 segundos.
+Tempo de Execução: 11,829000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,254002
 Iteracoes executadas: 500
-Tempo de Execução: 5,822000 segundos.
+Tempo de Execução: 11,829000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -239,73 +239,73 @@ Tempo de Execução: 5,822000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,459373
-Iteracoes executadas: 320
-Valor Probabilidade: 10,941214%
-Tempo de Execução: 6,515000 segundos.
+Valor Media: 50,589474
+Iteracoes executadas: 190
+Valor Probabilidade: 10,323434%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,281250
-Iteracoes executadas: 320
-Valor Probabilidade: 10,561058%
-Tempo de Execução: 6,515000 segundos.
+Valor Media: 50,324024
+Iteracoes executadas: 179
+Valor Probabilidade: 9,794365%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 46
-Valor Media: 50,136169
-Iteracoes executadas: 470
-Valor Probabilidade: 12,722097%
-Tempo de Execução: 6,515000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,105263
+Iteracoes executadas: 171
+Valor Probabilidade: 9,376829%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 49,950001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,008813%
-Tempo de Execução: 6,515000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,682636
+Iteracoes executadas: 167
+Valor Probabilidade: 10,682410%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 47
-Valor Media: 49,743591
-Iteracoes executadas: 39
-Valor Probabilidade: 9,484585%
-Tempo de Execução: 6,515000 segundos.
+Valor Media: 49,841061
+Iteracoes executadas: 151
+Valor Probabilidade: 8,893967%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,592686%
-Tempo de Execução: 6,515000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,539879
+Iteracoes executadas: 163
+Valor Probabilidade: 10,379399%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 48,950001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,075583%
-Tempo de Execução: 6,515000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,543209
+Iteracoes executadas: 162
+Valor Probabilidade: 10,386378%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 47
-Valor Media: 49,349998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,760288%
-Tempo de Execução: 6,515000 segundos.
+Valor Media: 49,468750
+Iteracoes executadas: 160
+Valor Probabilidade: 8,251483%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 46
-Valor Media: 49,386665
-Iteracoes executadas: 150
-Valor Probabilidade: 10,943194%
-Tempo de Execução: 6,515000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,257896
+Iteracoes executadas: 190
+Valor Probabilidade: 12,213345%
+Tempo de Execução: 12,951000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,371876
-Iteracoes executadas: 320
-Valor Probabilidade: 10,910470%
-Tempo de Execução: 6,515000 segundos.
+Valor Media: 49,204819
+Iteracoes executadas: 166
+Valor Probabilidade: 9,698380%
+Tempo de Execução: 12,951000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 4 de 30. Seed: 11
@@ -320,19 +320,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,096001
 Iteracoes executadas: 500
-Tempo de Execução: 5,750000 segundos.
+Tempo de Execução: 12,506000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,598000
 Iteracoes executadas: 500
-Tempo de Execução: 5,750000 segundos.
+Tempo de Execução: 12,506000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,216000
 Iteracoes executadas: 500
-Tempo de Execução: 5,750000 segundos.
+Tempo de Execução: 12,506000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -340,74 +340,74 @@ Tempo de Execução: 5,750000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 47
-Valor Media: 50,462502
-Iteracoes executadas: 320
-Valor Probabilidade: 9,717858%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 48
+Valor Media: 50,456791
+Iteracoes executadas: 162
+Valor Probabilidade: 8,086811%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 45
-Valor Media: 50,188236
-Iteracoes executadas: 170
-Valor Probabilidade: 14,215289%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,171875
+Iteracoes executadas: 192
+Valor Probabilidade: 11,695487%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 48
-Valor Media: 50,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 7,931637%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,113335
+Iteracoes executadas: 150
+Valor Probabilidade: 9,322831%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 45
-Valor Media: 49,915344
-Iteracoes executadas: 189
-Valor Probabilidade: 13,460992%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,850266
+Iteracoes executadas: 187
+Valor Probabilidade: 10,967050%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,779999
-Iteracoes executadas: 450
-Valor Probabilidade: 10,515553%
-Tempo de Execução: 6,716000 segundos.
+Valor Media: 49,813663
+Iteracoes executadas: 161
+Valor Probabilidade: 10,886793%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 48
-Valor Media: 50,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 7,398754%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,955975
+Iteracoes executadas: 159
+Valor Probabilidade: 9,034193%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 45
-Valor Media: 49,364704
-Iteracoes executadas: 170
-Valor Probabilidade: 12,047636%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,364780
+Iteracoes executadas: 159
+Valor Probabilidade: 9,944596%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 46
-Valor Media: 49,415627
-Iteracoes executadas: 320
-Valor Probabilidade: 9,770709%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,507042
+Iteracoes executadas: 142
+Valor Probabilidade: 8,254383%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 48
-Valor Media: 50,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 7,398754%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,348064
+Iteracoes executadas: 181
+Valor Probabilidade: 9,910977%
+Tempo de Execução: 9,528000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 47
-Valor Media: 49,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,542824%
-Tempo de Execução: 6,716000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,165047
+Iteracoes executadas: 206
+Valor Probabilidade: 11,896874%
+Tempo de Execução: 9,528000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 5 de 30. Seed: 16
@@ -422,19 +422,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,125999
 Iteracoes executadas: 500
-Tempo de Execução: 5,501000 segundos.
+Tempo de Execução: 5,586000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,672001
 Iteracoes executadas: 500
-Tempo de Execução: 5,501000 segundos.
+Tempo de Execução: 5,586000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,169998
 Iteracoes executadas: 500
-Tempo de Execução: 5,501000 segundos.
+Tempo de Execução: 5,586000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -442,74 +442,74 @@ Tempo de Execução: 5,501000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 48
-Valor Media: 50,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,309677%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,537571
+Iteracoes executadas: 173
+Valor Probabilidade: 9,898142%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 46
-Valor Media: 50,193748
-Iteracoes executadas: 320
-Valor Probabilidade: 12,636536%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,379745
+Iteracoes executadas: 158
+Valor Probabilidade: 9,593333%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 47
-Valor Media: 50,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 11,046796%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,235603
+Iteracoes executadas: 191
+Valor Probabilidade: 11,559162%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 50,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,184782%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,097561
+Iteracoes executadas: 164
+Valor Probabilidade: 9,069341%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 49,333332
-Iteracoes executadas: 39
-Valor Probabilidade: 8,573063%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,807911
+Iteracoes executadas: 177
+Valor Probabilidade: 10,611910%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,546875
-Iteracoes executadas: 320
-Valor Probabilidade: 11,099269%
-Tempo de Execução: 6,210000 segundos.
+Valor Media: 49,516129
+Iteracoes executadas: 186
+Valor Probabilidade: 10,006379%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,450001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,777975%
-Tempo de Execução: 6,210000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,522293
+Iteracoes executadas: 157
+Valor Probabilidade: 10,018842%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,348888
-Iteracoes executadas: 450
-Valor Probabilidade: 10,663640%
-Tempo de Execução: 6,210000 segundos.
+Valor Media: 49,535484
+Iteracoes executadas: 155
+Valor Probabilidade: 10,045562%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 48,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,535201%
-Tempo de Execução: 6,210000 segundos.
+Valor Media: 49,291668
+Iteracoes executadas: 168
+Valor Probabilidade: 9,561921%
+Tempo de Execução: 6,275000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,117020
-Iteracoes executadas: 470
-Valor Probabilidade: 10,173059%
-Tempo de Execução: 6,210000 segundos.
+Valor Media: 49,329411
+Iteracoes executadas: 170
+Valor Probabilidade: 9,635395%
+Tempo de Execução: 6,275000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 6 de 30. Seed: 22
@@ -524,19 +524,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,088001
 Iteracoes executadas: 500
-Tempo de Execução: 5,401000 segundos.
+Tempo de Execução: 5,457000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,596001
 Iteracoes executadas: 500
-Tempo de Execução: 5,401000 segundos.
+Tempo de Execução: 5,457000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,195999
 Iteracoes executadas: 500
-Tempo de Execução: 5,401000 segundos.
+Tempo de Execução: 5,457000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -545,73 +545,73 @@ Tempo de Execução: 5,401000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,483776
-Iteracoes executadas: 339
-Valor Probabilidade: 11,279612%
-Tempo de Execução: 6,021000 segundos.
+Valor Media: 50,569698
+Iteracoes executadas: 165
+Valor Probabilidade: 9,744770%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 47
-Valor Media: 50,070587
-Iteracoes executadas: 170
-Valor Probabilidade: 10,389697%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,276382
+Iteracoes executadas: 199
+Valor Probabilidade: 11,400098%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 48
-Valor Media: 50,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,466799%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,108974
+Iteracoes executadas: 156
+Valor Probabilidade: 8,892486%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,814589%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,793549
+Iteracoes executadas: 155
+Valor Probabilidade: 10,351398%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,817020
-Iteracoes executadas: 470
-Valor Probabilidade: 12,244857%
-Tempo de Execução: 6,021000 segundos.
+Valor Media: 49,790962
+Iteracoes executadas: 177
+Valor Probabilidade: 10,346023%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 48
-Valor Media: 50,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,551683%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,886791
+Iteracoes executadas: 159
+Valor Probabilidade: 10,546878%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,433334
-Iteracoes executadas: 150
-Valor Probabilidade: 11,333792%
-Tempo de Execução: 6,021000 segundos.
+Valor Media: 49,435028
+Iteracoes executadas: 177
+Valor Probabilidade: 9,629775%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 46
-Valor Media: 49,412766
-Iteracoes executadas: 470
-Valor Probabilidade: 11,286720%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,382980
+Iteracoes executadas: 141
+Valor Probabilidade: 7,684948%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 47
-Valor Media: 50,049999
-Iteracoes executadas: 20
-Valor Probabilidade: 10,347056%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,478260
+Iteracoes executadas: 207
+Valor Probabilidade: 12,102238%
+Tempo de Execução: 6,183000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 47
-Valor Media: 48,950001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,285199%
-Tempo de Execução: 6,021000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,263805
+Iteracoes executadas: 163
+Valor Probabilidade: 9,301388%
+Tempo de Execução: 6,183000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 7 de 30. Seed: 29
@@ -626,19 +626,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,217999
 Iteracoes executadas: 500
-Tempo de Execução: 5,607000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,616001
 Iteracoes executadas: 500
-Tempo de Execução: 5,607000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,212002
 Iteracoes executadas: 500
-Tempo de Execução: 5,607000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -647,73 +647,73 @@ Tempo de Execução: 5,607000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 46
-Valor Media: 50,470898
+Valor Media: 50,587303
 Iteracoes executadas: 189
-Valor Probabilidade: 12,306165%
-Tempo de Execução: 6,259000 segundos.
+Valor Probabilidade: 12,185276%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
-Valor Media: 50,066666
-Iteracoes executadas: 150
-Valor Probabilidade: 11,355319%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 50,083332
+Iteracoes executadas: 168
+Valor Probabilidade: 11,024333%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 50,047058
-Iteracoes executadas: 170
-Valor Probabilidade: 9,122166%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 49,993507
+Iteracoes executadas: 154
+Valor Probabilidade: 8,732851%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,923531
-Iteracoes executadas: 170
-Valor Probabilidade: 11,034826%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 49,921787
+Iteracoes executadas: 179
+Valor Probabilidade: 10,673859%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 47
-Valor Media: 49,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,009067%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 49,753426
+Iteracoes executadas: 146
+Valor Probabilidade: 8,322423%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,718750
-Iteracoes executadas: 320
-Valor Probabilidade: 10,590454%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 49,805405
+Iteracoes executadas: 185
+Valor Probabilidade: 10,427615%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 46
-Valor Media: 49,582352
-Iteracoes executadas: 170
-Valor Probabilidade: 10,303476%
-Tempo de Execução: 6,259000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,620155
+Iteracoes executadas: 129
+Valor Probabilidade: 8,102164%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,711765
-Iteracoes executadas: 170
-Valor Probabilidade: 8,529118%
-Tempo de Execução: 6,259000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,525715
+Iteracoes executadas: 175
+Valor Probabilidade: 9,856614%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 48,988235
-Iteracoes executadas: 170
-Valor Probabilidade: 9,133359%
-Tempo de Execução: 6,259000 segundos.
+Valor Media: 49,226414
+Iteracoes executadas: 159
+Valor Probabilidade: 9,276887%
+Tempo de Execução: 6,199000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,241177
-Iteracoes executadas: 170
-Valor Probabilidade: 9,616051%
-Tempo de Execução: 6,259000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,158138
+Iteracoes executadas: 215
+Valor Probabilidade: 11,397975%
+Tempo de Execução: 6,199000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 8 de 30. Seed: 37
@@ -728,19 +728,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,172001
 Iteracoes executadas: 500
-Tempo de Execução: 5,465000 segundos.
+Tempo de Execução: 5,513000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,580002
 Iteracoes executadas: 500
-Tempo de Execução: 5,465000 segundos.
+Tempo de Execução: 5,513000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,167999
 Iteracoes executadas: 500
-Tempo de Execução: 5,465000 segundos.
+Tempo de Execução: 5,513000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -748,74 +748,74 @@ Tempo de Execução: 5,465000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 49
-Valor Media: 50,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,029934%
-Tempo de Execução: 6,401000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,693180
+Iteracoes executadas: 176
+Valor Probabilidade: 10,412901%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,305882
-Iteracoes executadas: 170
-Valor Probabilidade: 10,938868%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 50,345028
+Iteracoes executadas: 171
+Valor Probabilidade: 9,719465%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 50,078335
-Iteracoes executadas: 600
-Valor Probabilidade: 12,962348%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 50,242939
+Iteracoes executadas: 177
+Valor Probabilidade: 11,809379%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 50,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 9,029352%
-Tempo de Execução: 6,401000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,975307
+Iteracoes executadas: 162
+Valor Probabilidade: 9,028826%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 47
-Valor Media: 49,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,887309%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 50,099998
+Iteracoes executadas: 160
+Valor Probabilidade: 9,256647%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 48
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,850819%
-Tempo de Execução: 6,401000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,617645
+Iteracoes executadas: 170
+Valor Probabilidade: 10,419296%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,402115
-Iteracoes executadas: 189
-Valor Probabilidade: 11,314632%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 49,333332
+Iteracoes executadas: 165
+Valor Probabilidade: 9,837419%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,478127
-Iteracoes executadas: 320
-Valor Probabilidade: 11,489930%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 49,578377
+Iteracoes executadas: 185
+Valor Probabilidade: 10,337126%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,343750
-Iteracoes executadas: 320
-Valor Probabilidade: 11,181664%
-Tempo de Execução: 6,401000 segundos.
+Valor Media: 49,283333
+Iteracoes executadas: 180
+Valor Probabilidade: 9,738169%
+Tempo de Execução: 6,191000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 48
-Valor Media: 49,349998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,315137%
-Tempo de Execução: 6,401000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,130718
+Iteracoes executadas: 153
+Valor Probabilidade: 9,440778%
+Tempo de Execução: 6,191000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 9 de 30. Seed: 46
@@ -830,19 +830,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,178001
 Iteracoes executadas: 500
-Tempo de Execução: 6,127000 segundos.
+Tempo de Execução: 5,524000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,698002
 Iteracoes executadas: 500
-Tempo de Execução: 6,127000 segundos.
+Tempo de Execução: 5,524000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,166000
 Iteracoes executadas: 500
-Tempo de Execução: 6,127000 segundos.
+Tempo de Execução: 5,524000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -851,73 +851,73 @@ Tempo de Execução: 6,127000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 10,249688%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 50,395721
+Iteracoes executadas: 187
+Valor Probabilidade: 9,421868%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
-Valor Media: 50,215557
-Iteracoes executadas: 450
-Valor Probabilidade: 11,545534%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 50,278107
+Iteracoes executadas: 169
+Valor Probabilidade: 11,412735%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 49,952942
-Iteracoes executadas: 170
-Valor Probabilidade: 10,955749%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 50,250000
+Iteracoes executadas: 156
+Valor Probabilidade: 11,349100%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 50,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,520289%
-Tempo de Execução: 6,628000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,966888
+Iteracoes executadas: 151
+Valor Probabilidade: 8,650145%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,847057
-Iteracoes executadas: 170
-Valor Probabilidade: 10,725723%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 50,020725
+Iteracoes executadas: 193
+Valor Probabilidade: 10,841781%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 46
-Valor Media: 49,765625
-Iteracoes executadas: 320
-Valor Probabilidade: 10,551785%
-Tempo de Execução: 6,628000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,637585
+Iteracoes executadas: 149
+Valor Probabilidade: 8,096674%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 48
-Valor Media: 49,750000
-Iteracoes executadas: 20
-Valor Probabilidade: 6,872709%
-Tempo de Execução: 6,628000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,458824
+Iteracoes executadas: 170
+Valor Probabilidade: 9,683638%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,512821
-Iteracoes executadas: 39
-Valor Probabilidade: 10,027853%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 49,470200
+Iteracoes executadas: 151
+Valor Probabilidade: 9,705933%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,411766
-Iteracoes executadas: 170
-Valor Probabilidade: 9,825054%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 49,420731
+Iteracoes executadas: 164
+Valor Probabilidade: 9,609307%
+Tempo de Execução: 6,240000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
-Valor Media: 49,200001
-Iteracoes executadas: 320
-Valor Probabilidade: 11,725616%
-Tempo de Execução: 6,628000 segundos.
+Valor Media: 49,105263
+Iteracoes executadas: 209
+Valor Probabilidade: 11,228825%
+Tempo de Execução: 6,240000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 10 de 30. Seed: 56
@@ -932,19 +932,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,127998
 Iteracoes executadas: 500
-Tempo de Execução: 5,374000 segundos.
+Tempo de Execução: 5,491000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,618000
 Iteracoes executadas: 500
-Tempo de Execução: 5,374000 segundos.
+Tempo de Execução: 5,491000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,158001
 Iteracoes executadas: 500
-Tempo de Execução: 5,374000 segundos.
+Tempo de Execução: 5,491000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -953,73 +953,73 @@ Tempo de Execução: 5,374000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,299999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,548492%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 50,313953
+Iteracoes executadas: 172
+Valor Probabilidade: 9,603473%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
-Valor Media: 50,182354
-Iteracoes executadas: 170
-Valor Probabilidade: 11,565534%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 50,187500
+Iteracoes executadas: 208
+Valor Probabilidade: 11,611798%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 49,976471
-Iteracoes executadas: 170
-Valor Probabilidade: 8,951809%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 50,030865
+Iteracoes executadas: 162
+Valor Probabilidade: 9,076612%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 50,023529
-Iteracoes executadas: 170
-Valor Probabilidade: 9,036460%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 49,933334
+Iteracoes executadas: 150
+Valor Probabilidade: 8,901219%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 46
-Valor Media: 49,676472
-Iteracoes executadas: 170
-Valor Probabilidade: 10,451113%
-Tempo de Execução: 6,097000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,609928
+Iteracoes executadas: 141
+Valor Probabilidade: 8,341221%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,791111
-Iteracoes executadas: 450
-Valor Probabilidade: 10,694822%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 49,666668
+Iteracoes executadas: 186
+Valor Probabilidade: 10,461509%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,647060
-Iteracoes executadas: 170
-Valor Probabilidade: 10,389404%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 49,533741
+Iteracoes executadas: 163
+Valor Probabilidade: 10,184866%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,264706
-Iteracoes executadas: 170
-Valor Probabilidade: 9,616433%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 49,300613
+Iteracoes executadas: 163
+Valor Probabilidade: 9,715545%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,435898
-Iteracoes executadas: 39
-Valor Probabilidade: 9,955873%
-Tempo de Execução: 6,097000 segundos.
+Valor Media: 49,519337
+Iteracoes executadas: 181
+Valor Probabilidade: 10,155288%
+Tempo de Execução: 6,174000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,352940
-Iteracoes executadas: 170
-Valor Probabilidade: 9,790062%
-Tempo de Execução: 6,097000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,236996
+Iteracoes executadas: 173
+Valor Probabilidade: 11,948477%
+Tempo de Execução: 6,174000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 11 de 30. Seed: 67
@@ -1034,19 +1034,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,181999
 Iteracoes executadas: 500
-Tempo de Execução: 5,635000 segundos.
+Tempo de Execução: 5,470000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,688000
 Iteracoes executadas: 500
-Tempo de Execução: 5,635000 segundos.
+Tempo de Execução: 5,470000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,174000
 Iteracoes executadas: 500
-Tempo de Execução: 5,635000 segundos.
+Tempo de Execução: 5,470000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1054,74 +1054,74 @@ Tempo de Execução: 5,635000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 49
-Valor Media: 50,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 7,085725%
-Tempo de Execução: 6,544000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,481201
+Iteracoes executadas: 266
+Valor Probabilidade: 10,090122%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 9,444098%
-Tempo de Execução: 6,544000 segundos.
+Valor Media: 50,183674
+Iteracoes executadas: 98
+Valor Probabilidade: 9,510954%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 48
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 7,651148%
-Tempo de Execução: 6,544000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,031090
+Iteracoes executadas: 193
+Valor Probabilidade: 9,225698%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 10,804563%
-Tempo de Execução: 6,544000 segundos.
+Valor Media: 49,859093
+Iteracoes executadas: 220
+Valor Probabilidade: 11,052066%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 46
-Valor Media: 49,857590
-Iteracoes executadas: 639
-Valor Probabilidade: 11,610959%
-Tempo de Execução: 6,544000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,942856
+Iteracoes executadas: 70
+Valor Probabilidade: 9,064277%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 47
-Valor Media: 50,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 9,829515%
-Tempo de Execução: 6,544000 segundos.
+Valor Media: 49,824036
+Iteracoes executadas: 233
+Valor Probabilidade: 8,850924%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,759998
-Iteracoes executadas: 150
-Valor Probabilidade: 11,385673%
-Tempo de Execução: 6,544000 segundos.
+Valor Media: 49,758930
+Iteracoes executadas: 112
+Valor Probabilidade: 10,832035%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 8,713786%
-Tempo de Execução: 6,544000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,575470
+Iteracoes executadas: 212
+Valor Probabilidade: 10,439221%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 45
-Valor Media: 49,299999
-Iteracoes executadas: 470
-Valor Probabilidade: 12,926398%
-Tempo de Execução: 6,544000 segundos.
+Valor Media: 49,400780
+Iteracoes executadas: 257
+Valor Probabilidade: 12,554255%
+Tempo de Execução: 6,155000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,381248
-Iteracoes executadas: 320
-Valor Probabilidade: 10,548140%
-Tempo de Execução: 6,544000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,552631
+Iteracoes executadas: 38
+Valor Probabilidade: 8,380440%
+Tempo de Execução: 6,155000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 12 de 30. Seed: 79
@@ -1136,19 +1136,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,186001
 Iteracoes executadas: 500
-Tempo de Execução: 5,749000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,655998
 Iteracoes executadas: 500
-Tempo de Execução: 5,749000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,175999
 Iteracoes executadas: 500
-Tempo de Execução: 5,749000 segundos.
+Tempo de Execução: 5,475000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1157,73 +1157,73 @@ Tempo de Execução: 5,749000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,529411
-Iteracoes executadas: 170
-Valor Probabilidade: 10,072518%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 50,355930
+Iteracoes executadas: 177
+Valor Probabilidade: 10,061663%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,237499
-Iteracoes executadas: 320
-Valor Probabilidade: 9,505519%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 50,103447
+Iteracoes executadas: 174
+Valor Probabilidade: 9,568405%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 46
-Valor Media: 50,105881
-Iteracoes executadas: 170
-Valor Probabilidade: 11,481088%
-Tempo de Execução: 6,555000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,067417
+Iteracoes executadas: 178
+Valor Probabilidade: 9,499818%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 47
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,536104%
-Tempo de Execução: 6,555000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,827160
+Iteracoes executadas: 162
+Valor Probabilidade: 11,225999%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 46
-Valor Media: 49,876667
-Iteracoes executadas: 300
-Valor Probabilidade: 10,966553%
-Tempo de Execução: 6,555000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,506248
+Iteracoes executadas: 160
+Valor Probabilidade: 8,487186%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,582352
-Iteracoes executadas: 170
-Valor Probabilidade: 10,336349%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 49,639534
+Iteracoes executadas: 172
+Valor Probabilidade: 10,810373%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 10,269100%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 49,518917
+Iteracoes executadas: 185
+Valor Probabilidade: 10,550553%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,452942
-Iteracoes executadas: 170
-Valor Probabilidade: 10,069717%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 49,306667
+Iteracoes executadas: 150
+Valor Probabilidade: 10,106951%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,206249
-Iteracoes executadas: 320
-Valor Probabilidade: 9,578523%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 49,244320
+Iteracoes executadas: 176
+Valor Probabilidade: 9,979875%
+Tempo de Execução: 6,299000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,000000
-Iteracoes executadas: 39
-Valor Probabilidade: 9,184524%
-Tempo de Execução: 6,555000 segundos.
+Valor Media: 49,109093
+Iteracoes executadas: 165
+Valor Probabilidade: 9,709187%
+Tempo de Execução: 6,299000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 13 de 30. Seed: 92
@@ -1238,19 +1238,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,208000
 Iteracoes executadas: 500
-Tempo de Execução: 5,862000 segundos.
+Tempo de Execução: 5,865000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,599998
 Iteracoes executadas: 500
-Tempo de Execução: 5,862000 segundos.
+Tempo de Execução: 5,865000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,231998
 Iteracoes executadas: 500
-Tempo de Execução: 5,862000 segundos.
+Tempo de Execução: 5,865000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1259,73 +1259,73 @@ Tempo de Execução: 5,862000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,424999
-Iteracoes executadas: 320
-Valor Probabilidade: 10,248793%
-Tempo de Execução: 6,897000 segundos.
+Valor Media: 50,377048
+Iteracoes executadas: 183
+Valor Probabilidade: 9,267930%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
-Valor Media: 50,087502
-Iteracoes executadas: 320
-Valor Probabilidade: 11,882495%
-Tempo de Execução: 6,897000 segundos.
+Valor Media: 50,202187
+Iteracoes executadas: 183
+Valor Probabilidade: 11,098959%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 47
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 9,230372%
-Tempo de Execução: 6,897000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 50,022987
+Iteracoes executadas: 174
+Valor Probabilidade: 13,341517%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,867021%
-Tempo de Execução: 6,897000 segundos.
+Valor Media: 49,936710
+Iteracoes executadas: 158
+Valor Probabilidade: 8,488966%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 50,049999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,511621%
-Tempo de Execução: 6,897000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,777172
+Iteracoes executadas: 184
+Valor Probabilidade: 10,194316%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 47
-Valor Media: 49,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 8,516588%
-Tempo de Execução: 6,897000 segundos.
+Valor Media: 49,682758
+Iteracoes executadas: 145
+Valor Probabilidade: 8,067009%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,538460
-Iteracoes executadas: 39
-Valor Probabilidade: 8,582988%
-Tempo de Execução: 6,897000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,514126
+Iteracoes executadas: 177
+Valor Probabilidade: 9,668234%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,446877
-Iteracoes executadas: 320
-Valor Probabilidade: 10,447267%
-Tempo de Execução: 6,897000 segundos.
+Valor Media: 49,383118
+Iteracoes executadas: 154
+Valor Probabilidade: 9,415445%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 45
-Valor Media: 49,373333
-Iteracoes executadas: 450
-Valor Probabilidade: 12,823053%
-Tempo de Execução: 6,897000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,269939
+Iteracoes executadas: 163
+Valor Probabilidade: 9,201875%
+Tempo de Execução: 7,186000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,176472
-Iteracoes executadas: 170
-Valor Probabilidade: 9,889801%
-Tempo de Execução: 6,897000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,179775
+Iteracoes executadas: 178
+Valor Probabilidade: 11,255752%
+Tempo de Execução: 7,186000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 14 de 30. Seed: 106
@@ -1340,19 +1340,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,082001
 Iteracoes executadas: 500
-Tempo de Execução: 5,371000 segundos.
+Tempo de Execução: 5,646000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,683998
 Iteracoes executadas: 500
-Tempo de Execução: 5,371000 segundos.
+Tempo de Execução: 5,646000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,206001
 Iteracoes executadas: 500
-Tempo de Execução: 5,371000 segundos.
+Tempo de Execução: 5,646000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1361,73 +1361,73 @@ Tempo de Execução: 5,371000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,421276
-Iteracoes executadas: 470
-Valor Probabilidade: 10,261413%
-Tempo de Execução: 6,332000 segundos.
+Valor Media: 50,662792
+Iteracoes executadas: 172
+Valor Probabilidade: 10,259147%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,252941
-Iteracoes executadas: 170
-Valor Probabilidade: 9,923931%
-Tempo de Execução: 6,332000 segundos.
+Valor Media: 50,196320
+Iteracoes executadas: 163
+Valor Probabilidade: 9,352739%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 49,929413
-Iteracoes executadas: 170
-Valor Probabilidade: 11,535426%
-Tempo de Execução: 6,332000 segundos.
+Valor Media: 50,004974
+Iteracoes executadas: 201
+Valor Probabilidade: 11,162271%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 50,000000
-Iteracoes executadas: 20
-Valor Probabilidade: 7,644256%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,909603
+Iteracoes executadas: 177
+Valor Probabilidade: 10,951196%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 50,299999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,115493%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,934425
+Iteracoes executadas: 183
+Valor Probabilidade: 11,005786%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,707337%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,527473
+Iteracoes executadas: 182
+Valor Probabilidade: 10,141030%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,349998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,278286%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,496815
+Iteracoes executadas: 157
+Valor Probabilidade: 10,078428%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,407406
-Iteracoes executadas: 189
-Valor Probabilidade: 10,384597%
-Tempo de Execução: 6,332000 segundos.
+Valor Media: 49,287498
+Iteracoes executadas: 160
+Valor Probabilidade: 9,660246%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 45
-Valor Media: 49,276470
-Iteracoes executadas: 170
-Valor Probabilidade: 12,598484%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,343559
+Iteracoes executadas: 163
+Valor Probabilidade: 9,770691%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 45
-Valor Media: 49,257778
-Iteracoes executadas: 450
-Valor Probabilidade: 12,550776%
-Tempo de Execução: 6,332000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,177303
+Iteracoes executadas: 141
+Valor Probabilidade: 7,618462%
+Tempo de Execução: 6,231000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 15 de 30. Seed: 121
@@ -1442,19 +1442,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,021999
 Iteracoes executadas: 500
-Tempo de Execução: 6,211000 segundos.
+Tempo de Execução: 5,452000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,680000
 Iteracoes executadas: 500
-Tempo de Execução: 6,211000 segundos.
+Tempo de Execução: 5,452000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,175999
 Iteracoes executadas: 500
-Tempo de Execução: 6,211000 segundos.
+Tempo de Execução: 5,452000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1463,73 +1463,73 @@ Tempo de Execução: 6,211000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,382355
-Iteracoes executadas: 170
-Valor Probabilidade: 10,392527%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 50,363636
+Iteracoes executadas: 187
+Valor Probabilidade: 9,637115%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,250000
-Iteracoes executadas: 20
-Valor Probabilidade: 10,122722%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 50,132530
+Iteracoes executadas: 166
+Valor Probabilidade: 9,203912%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 47
-Valor Media: 50,250000
-Iteracoes executadas: 20
-Valor Probabilidade: 10,122722%
-Tempo de Execução: 6,208000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,278351
+Iteracoes executadas: 194
+Valor Probabilidade: 11,748619%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 49,650002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,976956%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 49,925926
+Iteracoes executadas: 162
+Valor Probabilidade: 8,831565%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 49,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,199781%
-Tempo de Execução: 6,208000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,664558
+Iteracoes executadas: 158
+Valor Probabilidade: 10,390641%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 48
-Valor Media: 50,000000
-Iteracoes executadas: 20
-Valor Probabilidade: 7,801945%
-Tempo de Execução: 6,208000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,900002
+Iteracoes executadas: 170
+Valor Probabilidade: 10,893868%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 45
-Valor Media: 49,617779
-Iteracoes executadas: 450
-Valor Probabilidade: 13,777264%
-Tempo de Execução: 6,208000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,488506
+Iteracoes executadas: 174
+Valor Probabilidade: 10,028131%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,453190
-Iteracoes executadas: 470
-Valor Probabilidade: 10,697439%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 49,417141
+Iteracoes executadas: 175
+Valor Probabilidade: 9,884454%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,410255
-Iteracoes executadas: 39
-Valor Probabilidade: 10,604931%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 49,404110
+Iteracoes executadas: 146
+Valor Probabilidade: 9,858421%
+Tempo de Execução: 6,210000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,268085
-Iteracoes executadas: 470
-Valor Probabilidade: 10,303708%
-Tempo de Execução: 6,208000 segundos.
+Valor Media: 49,233532
+Iteracoes executadas: 167
+Valor Probabilidade: 9,523275%
+Tempo de Execução: 6,210000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 16 de 30. Seed: 137
@@ -1544,19 +1544,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,082001
 Iteracoes executadas: 500
-Tempo de Execução: 5,699000 segundos.
+Tempo de Execução: 5,540000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,598000
 Iteracoes executadas: 500
-Tempo de Execução: 5,699000 segundos.
+Tempo de Execução: 5,540000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,208000
 Iteracoes executadas: 500
-Tempo de Execução: 5,699000 segundos.
+Tempo de Execução: 5,540000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1565,73 +1565,73 @@ Tempo de Execução: 5,699000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,558823
-Iteracoes executadas: 170
-Valor Probabilidade: 10,158195%
-Tempo de Execução: 6,397000 segundos.
+Valor Media: 50,514450
+Iteracoes executadas: 173
+Valor Probabilidade: 10,307054%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 49,982353
-Iteracoes executadas: 170
-Valor Probabilidade: 9,057620%
-Tempo de Execução: 6,397000 segundos.
+Valor Media: 50,035927
+Iteracoes executadas: 167
+Valor Probabilidade: 9,371256%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 49,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,388101%
-Tempo de Execução: 6,397000 segundos.
+Valor Media: 50,071007
+Iteracoes executadas: 169
+Valor Probabilidade: 9,437165%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 46
-Valor Media: 49,811764
-Iteracoes executadas: 170
-Valor Probabilidade: 10,853417%
-Tempo de Execução: 6,397000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,919998
+Iteracoes executadas: 150
+Valor Probabilidade: 9,156381%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,843750
-Iteracoes executadas: 320
-Valor Probabilidade: 10,923318%
-Tempo de Execução: 6,397000 segundos.
+Valor Media: 49,737431
+Iteracoes executadas: 179
+Valor Probabilidade: 10,944903%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 49
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 5,873143%
-Tempo de Execução: 6,397000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,599998
+Iteracoes executadas: 175
+Valor Probabilidade: 10,646214%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 45
-Valor Media: 49,517647
-Iteracoes executadas: 170
-Valor Probabilidade: 12,743847%
-Tempo de Execução: 6,397000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,460606
+Iteracoes executadas: 165
+Valor Probabilidade: 10,350774%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,470589
-Iteracoes executadas: 170
-Valor Probabilidade: 10,132537%
-Tempo de Execução: 6,397000 segundos.
+Valor Media: 49,283237
+Iteracoes executadas: 173
+Valor Probabilidade: 9,985520%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,217648
+Valor Media: 49,323528
 Iteracoes executadas: 170
-Valor Probabilidade: 9,626219%
-Tempo de Execução: 6,397000 segundos.
+Valor Probabilidade: 10,067459%
+Tempo de Execução: 6,260000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 45
-Valor Media: 49,319748
-Iteracoes executadas: 319
-Valor Probabilidade: 12,243597%
-Tempo de Execução: 6,397000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,157303
+Iteracoes executadas: 178
+Valor Probabilidade: 9,733271%
+Tempo de Execução: 6,260000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 17 de 30. Seed: 154
@@ -1646,19 +1646,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,084000
 Iteracoes executadas: 500
-Tempo de Execução: 5,780000 segundos.
+Tempo de Execução: 5,511000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,655998
 Iteracoes executadas: 500
-Tempo de Execução: 5,780000 segundos.
+Tempo de Execução: 5,511000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,222000
 Iteracoes executadas: 500
-Tempo de Execução: 5,780000 segundos.
+Tempo de Execução: 5,511000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1666,74 +1666,74 @@ Tempo de Execução: 5,780000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 47
-Valor Media: 50,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 10,638049%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,429295
+Iteracoes executadas: 198
+Valor Probabilidade: 11,793003%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,051281
-Iteracoes executadas: 39
-Valor Probabilidade: 9,924495%
-Tempo de Execução: 6,539000 segundos.
+Valor Media: 50,305195
+Iteracoes executadas: 154
+Valor Probabilidade: 9,279476%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,974140%
-Tempo de Execução: 6,539000 segundos.
+Valor Media: 49,921570
+Iteracoes executadas: 153
+Valor Probabilidade: 8,595623%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 49,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,722786%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,936417
+Iteracoes executadas: 173
+Valor Probabilidade: 10,689789%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,851063
-Iteracoes executadas: 470
-Valor Probabilidade: 11,822272%
-Tempo de Execução: 6,539000 segundos.
+Valor Media: 49,934910
+Iteracoes executadas: 169
+Valor Probabilidade: 10,686566%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,853191
-Iteracoes executadas: 470
-Valor Probabilidade: 11,827322%
-Tempo de Execução: 6,539000 segundos.
+Valor Media: 49,673912
+Iteracoes executadas: 184
+Valor Probabilidade: 10,140960%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 48,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,783985%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,500000
+Iteracoes executadas: 166
+Valor Probabilidade: 9,791459%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,450001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,794666%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,540371
+Iteracoes executadas: 161
+Valor Probabilidade: 9,871609%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 47
-Valor Media: 49,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 9,532522%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,459301
+Iteracoes executadas: 172
+Valor Probabilidade: 9,711247%
+Tempo de Execução: 6,154000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 45
-Valor Media: 49,224998
-Iteracoes executadas: 600
-Valor Probabilidade: 12,979768%
-Tempo de Execução: 6,539000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,319527
+Iteracoes executadas: 169
+Valor Probabilidade: 9,440268%
+Tempo de Execução: 6,154000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 18 de 30. Seed: 172
@@ -1748,19 +1748,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,174000
 Iteracoes executadas: 500
-Tempo de Execução: 6,249000 segundos.
+Tempo de Execução: 5,723000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,669998
 Iteracoes executadas: 500
-Tempo de Execução: 6,249000 segundos.
+Tempo de Execução: 5,723000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,362000
 Iteracoes executadas: 500
-Tempo de Execução: 6,249000 segundos.
+Tempo de Execução: 5,723000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1769,73 +1769,73 @@ Tempo de Execução: 6,249000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,434376
-Iteracoes executadas: 320
-Valor Probabilidade: 10,014091%
-Tempo de Execução: 6,859000 segundos.
+Valor Media: 50,524391
+Iteracoes executadas: 164
+Valor Probabilidade: 9,814894%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,006083%
-Tempo de Execução: 6,859000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,273293
+Iteracoes executadas: 161
+Valor Probabilidade: 9,337876%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 50,105881
-Iteracoes executadas: 170
-Valor Probabilidade: 9,380629%
-Tempo de Execução: 6,859000 segundos.
+Valor Media: 50,277420
+Iteracoes executadas: 155
+Valor Probabilidade: 9,345548%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 48
-Valor Media: 49,743591
-Iteracoes executadas: 39
-Valor Probabilidade: 7,067774%
-Tempo de Execução: 6,859000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,861111
+Iteracoes executadas: 180
+Valor Probabilidade: 10,663375%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 45
-Valor Media: 49,299999
-Iteracoes executadas: 20
-Valor Probabilidade: 12,321615%
-Tempo de Execução: 6,859000 segundos.
+Valor Media: 49,700935
+Iteracoes executadas: 214
+Valor Probabilidade: 12,863940%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 45
-Valor Media: 49,799999
-Iteracoes executadas: 170
-Valor Probabilidade: 13,629876%
-Tempo de Execução: 6,859000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,589928
+Iteracoes executadas: 139
+Valor Probabilidade: 8,143473%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,726665
-Iteracoes executadas: 300
-Valor Probabilidade: 10,780495%
-Tempo de Execução: 6,859000 segundos.
+Valor Media: 49,752747
+Iteracoes executadas: 182
+Valor Probabilidade: 10,433880%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 46
-Valor Media: 49,270588
-Iteracoes executadas: 170
-Valor Probabilidade: 9,831569%
-Tempo de Execução: 6,859000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,324741
+Iteracoes executadas: 194
+Valor Probabilidade: 11,922753%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 46
-Valor Media: 49,441177
-Iteracoes executadas: 170
-Valor Probabilidade: 10,177315%
-Tempo de Execução: 6,859000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,366905
+Iteracoes executadas: 139
+Valor Probabilidade: 7,784558%
+Tempo de Execução: 6,231000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,250000
-Iteracoes executadas: 320
-Valor Probabilidade: 9,790564%
-Tempo de Execução: 6,859000 segundos.
+Valor Media: 49,385963
+Iteracoes executadas: 171
+Valor Probabilidade: 9,689702%
+Tempo de Execução: 6,231000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 19 de 30. Seed: 191
@@ -1850,19 +1850,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,178001
 Iteracoes executadas: 500
-Tempo de Execução: 5,729000 segundos.
+Tempo de Execução: 5,462000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,669998
 Iteracoes executadas: 500
-Tempo de Execução: 5,729000 segundos.
+Tempo de Execução: 5,462000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,262001
 Iteracoes executadas: 500
-Tempo de Execução: 5,729000 segundos.
+Tempo de Execução: 5,462000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1870,74 +1870,74 @@ Tempo de Execução: 5,729000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 48
-Valor Media: 50,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,452988%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,439999
+Iteracoes executadas: 175
+Valor Probabilidade: 9,466861%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 50,049999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,146531%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,081760
+Iteracoes executadas: 159
+Valor Probabilidade: 8,815586%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 48
-Valor Media: 50,250000
-Iteracoes executadas: 20
-Valor Probabilidade: 8,477989%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,070515
+Iteracoes executadas: 156
+Valor Probabilidade: 8,795813%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 47
-Valor Media: 49,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 9,003634%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,814816
+Iteracoes executadas: 189
+Valor Probabilidade: 12,909045%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 45
-Valor Media: 49,672802
-Iteracoes executadas: 489
-Valor Probabilidade: 14,401438%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,782352
+Iteracoes executadas: 170
+Valor Probabilidade: 10,294610%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,750000
-Iteracoes executadas: 20
-Valor Probabilidade: 9,468840%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,633720
+Iteracoes executadas: 172
+Valor Probabilidade: 9,991343%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,472605%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,493420
+Iteracoes executadas: 152
+Valor Probabilidade: 9,712482%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,386895%
-Tempo de Execução: 6,630000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,251534
+Iteracoes executadas: 163
+Valor Probabilidade: 9,248115%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 45
-Valor Media: 49,393616
-Iteracoes executadas: 470
-Valor Probabilidade: 13,612179%
-Tempo de Execução: 6,630000 segundos.
+Valor Media: 49,380711
+Iteracoes executadas: 197
+Valor Probabilidade: 11,827206%
+Tempo de Execução: 6,221000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,233334
-Iteracoes executadas: 600
-Valor Probabilidade: 10,576901%
-Tempo de Execução: 6,630000 segundos.
+Valor Media: 49,084339
+Iteracoes executadas: 166
+Valor Probabilidade: 8,938921%
+Tempo de Execução: 6,221000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 20 de 30. Seed: 211
@@ -1952,19 +1952,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,172001
 Iteracoes executadas: 500
-Tempo de Execução: 6,319000 segundos.
+Tempo de Execução: 5,506000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,625999
 Iteracoes executadas: 500
-Tempo de Execução: 6,319000 segundos.
+Tempo de Execução: 5,506000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,188000
 Iteracoes executadas: 500
-Tempo de Execução: 6,319000 segundos.
+Tempo de Execução: 5,506000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -1972,74 +1972,74 @@ Tempo de Execução: 6,319000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 46
-Valor Media: 50,386501
-Iteracoes executadas: 489
-Valor Probabilidade: 13,890877%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,456791
+Iteracoes executadas: 162
+Valor Probabilidade: 9,835551%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 50,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 9,282552%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,217648
+Iteracoes executadas: 170
+Valor Probabilidade: 9,379205%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 48
-Valor Media: 50,049999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,487784%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,294479
+Iteracoes executadas: 163
+Valor Probabilidade: 9,523694%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,903126
-Iteracoes executadas: 320
-Valor Probabilidade: 12,614360%
-Tempo de Execução: 5,977000 segundos.
+Valor Media: 49,622952
+Iteracoes executadas: 183
+Valor Probabilidade: 10,323541%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 46
-Valor Media: 49,825806
-Iteracoes executadas: 620
-Valor Probabilidade: 12,420268%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,969326
+Iteracoes executadas: 163
+Valor Probabilidade: 8,925597%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,965081%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,595375
+Iteracoes executadas: 173
+Valor Probabilidade: 10,266311%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 48
-Valor Media: 49,450001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,523445%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,458065
+Iteracoes executadas: 155
+Valor Probabilidade: 9,985590%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 48
-Valor Media: 50,000000
-Iteracoes executadas: 20
-Valor Probabilidade: 8,403377%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,531429
+Iteracoes executadas: 175
+Valor Probabilidade: 10,134709%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 47
-Valor Media: 49,400002
-Iteracoes executadas: 150
-Valor Probabilidade: 9,192997%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,439026
+Iteracoes executadas: 164
+Valor Probabilidade: 9,947219%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 47
-Valor Media: 48,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,219266%
-Tempo de Execução: 5,977000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,146595
+Iteracoes executadas: 191
+Valor Probabilidade: 11,678585%
+Tempo de Execução: 6,205000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 21 de 30. Seed: 232
@@ -2054,19 +2054,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,217999
 Iteracoes executadas: 500
-Tempo de Execução: 5,404000 segundos.
+Tempo de Execução: 5,501000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,698002
 Iteracoes executadas: 500
-Tempo de Execução: 5,404000 segundos.
+Tempo de Execução: 5,501000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,147999
 Iteracoes executadas: 500
-Tempo de Execução: 5,404000 segundos.
+Tempo de Execução: 5,501000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2074,74 +2074,74 @@ Tempo de Execução: 5,404000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 48
-Valor Media: 50,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,521152%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,521053
+Iteracoes executadas: 190
+Valor Probabilidade: 10,508269%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 46
-Valor Media: 50,206249
-Iteracoes executadas: 320
-Valor Probabilidade: 11,595064%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,226521
+Iteracoes executadas: 181
+Valor Probabilidade: 9,911473%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 50,068783
-Iteracoes executadas: 189
-Valor Probabilidade: 11,281468%
-Tempo de Execução: 6,090000 segundos.
+Valor Media: 50,075001
+Iteracoes executadas: 200
+Valor Probabilidade: 11,923866%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 46
-Valor Media: 49,939999
-Iteracoes executadas: 450
-Valor Probabilidade: 10,994634%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,816456
+Iteracoes executadas: 158
+Valor Probabilidade: 9,131365%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 49,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 6,443635%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,659573
+Iteracoes executadas: 141
+Valor Probabilidade: 8,847836%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 46
-Valor Media: 49,717648
-Iteracoes executadas: 170
-Valor Probabilidade: 10,514804%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,509804
+Iteracoes executadas: 153
+Valor Probabilidade: 8,584589%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,594116
-Iteracoes executadas: 170
-Valor Probabilidade: 10,256446%
-Tempo de Execução: 6,090000 segundos.
+Valor Media: 49,419353
+Iteracoes executadas: 186
+Valor Probabilidade: 10,451488%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,950001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,884851%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,387978
+Iteracoes executadas: 183
+Valor Probabilidade: 10,385321%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 45
-Valor Media: 49,358822
-Iteracoes executadas: 170
-Valor Probabilidade: 12,184183%
-Tempo de Execução: 6,090000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,344154
+Iteracoes executadas: 154
+Valor Probabilidade: 10,293537%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,123528
-Iteracoes executadas: 170
-Valor Probabilidade: 9,323754%
-Tempo de Execução: 6,090000 segundos.
+Valor Media: 49,183006
+Iteracoes executadas: 153
+Valor Probabilidade: 9,962269%
+Tempo de Execução: 6,205000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 22 de 30. Seed: 254
@@ -2156,19 +2156,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,082001
 Iteracoes executadas: 500
-Tempo de Execução: 5,788000 segundos.
+Tempo de Execução: 5,496000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,653999
 Iteracoes executadas: 500
-Tempo de Execução: 5,788000 segundos.
+Tempo de Execução: 5,496000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,327999
 Iteracoes executadas: 500
-Tempo de Execução: 5,788000 segundos.
+Tempo de Execução: 5,496000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2177,73 +2177,73 @@ Tempo de Execução: 5,788000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,490623
-Iteracoes executadas: 320
-Valor Probabilidade: 10,451025%
-Tempo de Execução: 6,105000 segundos.
+Valor Media: 50,549740
+Iteracoes executadas: 191
+Valor Probabilidade: 10,082034%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,212502
-Iteracoes executadas: 320
-Valor Probabilidade: 9,889403%
-Tempo de Execução: 6,105000 segundos.
+Valor Media: 50,121796
+Iteracoes executadas: 156
+Valor Probabilidade: 9,260298%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 46
-Valor Media: 50,035294
-Iteracoes executadas: 170
-Valor Probabilidade: 11,836309%
-Tempo de Execução: 6,105000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,167629
+Iteracoes executadas: 173
+Valor Probabilidade: 9,345332%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,771873
-Iteracoes executadas: 320
-Valor Probabilidade: 11,227724%
-Tempo de Execução: 6,105000 segundos.
+Valor Media: 49,733696
+Iteracoes executadas: 184
+Valor Probabilidade: 10,623472%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 7,230722%
-Tempo de Execução: 6,105000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,681820
+Iteracoes executadas: 154
+Valor Probabilidade: 10,513180%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,066823%
-Tempo de Execução: 6,105000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,505814
+Iteracoes executadas: 172
+Valor Probabilidade: 10,146615%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,366665
-Iteracoes executadas: 150
-Valor Probabilidade: 10,346408%
-Tempo de Execução: 6,105000 segundos.
+Valor Media: 49,524391
+Iteracoes executadas: 164
+Valor Probabilidade: 10,184751%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 10,845971%
-Tempo de Execução: 6,105000 segundos.
+Valor Media: 49,497143
+Iteracoes executadas: 175
+Valor Probabilidade: 10,128857%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 46
-Valor Media: 49,258823
-Iteracoes executadas: 170
-Valor Probabilidade: 10,122601%
-Tempo de Execução: 6,105000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,274612
+Iteracoes executadas: 193
+Valor Probabilidade: 12,062696%
+Tempo de Execução: 6,205000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 46
-Valor Media: 49,190475
-Iteracoes executadas: 189
-Valor Probabilidade: 9,983021%
-Tempo de Execução: 6,105000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,175182
+Iteracoes executadas: 137
+Valor Probabilidade: 7,652768%
+Tempo de Execução: 6,205000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 23 de 30. Seed: 277
@@ -2258,19 +2258,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,054001
 Iteracoes executadas: 500
-Tempo de Execução: 5,454000 segundos.
+Tempo de Execução: 5,807000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,658001
 Iteracoes executadas: 500
-Tempo de Execução: 5,454000 segundos.
+Tempo de Execução: 5,807000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,243999
 Iteracoes executadas: 500
-Tempo de Execução: 5,454000 segundos.
+Tempo de Execução: 5,807000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2278,74 +2278,74 @@ Tempo de Execução: 5,454000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 47
-Valor Media: 50,414894
-Iteracoes executadas: 470
-Valor Probabilidade: 10,776292%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 48
+Valor Media: 50,356724
+Iteracoes executadas: 171
+Valor Probabilidade: 7,989287%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 50,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,200195%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,273224
+Iteracoes executadas: 183
+Valor Probabilidade: 12,026376%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 50,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 10,121808%
-Tempo de Execução: 6,026000 segundos.
+Valor Media: 50,098839
+Iteracoes executadas: 172
+Valor Probabilidade: 9,367932%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 47
-Valor Media: 50,082352
-Iteracoes executadas: 170
-Valor Probabilidade: 10,086210%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 50,005318
+Iteracoes executadas: 188
+Valor Probabilidade: 11,400647%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,817780
-Iteracoes executadas: 450
-Valor Probabilidade: 11,861096%
-Tempo de Execução: 6,026000 segundos.
+Valor Media: 49,808140
+Iteracoes executadas: 172
+Valor Probabilidade: 10,958997%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 47
-Valor Media: 49,150002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,358267%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,673203
+Iteracoes executadas: 153
+Valor Probabilidade: 10,665694%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,820515
-Iteracoes executadas: 39
-Valor Probabilidade: 9,571124%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,741756
+Iteracoes executadas: 182
+Valor Probabilidade: 10,813806%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 46
-Valor Media: 49,496876
-Iteracoes executadas: 320
-Valor Probabilidade: 11,118831%
-Tempo de Execução: 6,026000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,697987
+Iteracoes executadas: 149
+Valor Probabilidade: 8,644807%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 47
-Valor Media: 49,750000
-Iteracoes executadas: 20
-Valor Probabilidade: 9,436518%
-Tempo de Execução: 6,026000 segundos.
+Valor Media: 49,420731
+Iteracoes executadas: 164
+Valor Probabilidade: 8,174456%
+Tempo de Execução: 6,136000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,200001
-Iteracoes executadas: 170
-Valor Probabilidade: 10,469650%
-Tempo de Execução: 6,026000 segundos.
+Valor Media: 49,333332
+Iteracoes executadas: 165
+Valor Probabilidade: 9,957994%
+Tempo de Execução: 6,136000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 24 de 30. Seed: 301
@@ -2360,19 +2360,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,183998
 Iteracoes executadas: 500
-Tempo de Execução: 5,637000 segundos.
+Tempo de Execução: 5,468000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,694000
 Iteracoes executadas: 500
-Tempo de Execução: 5,637000 segundos.
+Tempo de Execução: 5,468000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,296001
 Iteracoes executadas: 500
-Tempo de Execução: 5,637000 segundos.
+Tempo de Execução: 5,468000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2381,73 +2381,73 @@ Tempo de Execução: 5,637000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 46
-Valor Media: 50,416668
-Iteracoes executadas: 300
-Valor Probabilidade: 12,211324%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 50,442623
+Iteracoes executadas: 183
+Valor Probabilidade: 12,230626%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 46
-Valor Media: 50,081249
-Iteracoes executadas: 320
-Valor Probabilidade: 11,422806%
-Tempo de Execução: 6,280000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,125748
+Iteracoes executadas: 167
+Valor Probabilidade: 9,261485%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 50,137566
-Iteracoes executadas: 189
-Valor Probabilidade: 11,551906%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 50,083744
+Iteracoes executadas: 203
+Valor Probabilidade: 11,387807%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 49,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,033239%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 49,866241
+Iteracoes executadas: 157
+Valor Probabilidade: 8,793025%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,821877
-Iteracoes executadas: 320
-Valor Probabilidade: 10,844815%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 49,801170
+Iteracoes executadas: 171
+Valor Probabilidade: 10,761371%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 46
-Valor Media: 49,694118
-Iteracoes executadas: 170
-Valor Probabilidade: 10,569907%
-Tempo de Execução: 6,280000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,689190
+Iteracoes executadas: 148
+Valor Probabilidade: 8,485769%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 47
-Valor Media: 49,599998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,364453%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 49,445858
+Iteracoes executadas: 157
+Valor Probabilidade: 8,079250%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 47
-Valor Media: 49,299999
-Iteracoes executadas: 20
-Valor Probabilidade: 7,872095%
-Tempo de Execução: 6,280000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,233696
+Iteracoes executadas: 184
+Valor Probabilidade: 11,955009%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,194118
+Valor Media: 49,252941
 Iteracoes executadas: 170
-Valor Probabilidade: 9,553296%
-Tempo de Execução: 6,280000 segundos.
+Valor Probabilidade: 9,633719%
+Tempo de Execução: 6,195000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,205883
-Iteracoes executadas: 170
-Valor Probabilidade: 9,576163%
-Tempo de Execução: 6,280000 segundos.
+Valor Media: 49,138363
+Iteracoes executadas: 159
+Valor Probabilidade: 9,411936%
+Tempo de Execução: 6,195000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 25 de 30. Seed: 326
@@ -2462,19 +2462,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,138000
 Iteracoes executadas: 500
-Tempo de Execução: 5,415000 segundos.
+Tempo de Execução: 5,534000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,630001
 Iteracoes executadas: 500
-Tempo de Execução: 5,415000 segundos.
+Tempo de Execução: 5,534000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
 Valor Media: 49,189999
 Iteracoes executadas: 500
-Tempo de Execução: 5,415000 segundos.
+Tempo de Execução: 5,534000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2483,73 +2483,73 @@ Tempo de Execução: 5,415000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 48
-Valor Media: 50,333332
-Iteracoes executadas: 39
-Valor Probabilidade: 7,685727%
-Tempo de Execução: 6,121000 segundos.
+Valor Media: 50,574192
+Iteracoes executadas: 155
+Valor Probabilidade: 8,109729%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 46
-Valor Media: 50,103127
-Iteracoes executadas: 320
-Valor Probabilidade: 11,235970%
-Tempo de Execução: 6,121000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,277420
+Iteracoes executadas: 155
+Valor Probabilidade: 9,438011%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 46
-Valor Media: 50,099998
-Iteracoes executadas: 450
-Valor Probabilidade: 11,228955%
-Tempo de Execução: 6,121000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,973156
+Iteracoes executadas: 149
+Valor Probabilidade: 8,882152%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,817646
-Iteracoes executadas: 170
-Valor Probabilidade: 10,611926%
-Tempo de Execução: 6,121000 segundos.
+Valor Media: 49,913513
+Iteracoes executadas: 185
+Valor Probabilidade: 10,882585%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,250000
 Valor Melhor Resultado: 46
-Valor Media: 49,835293
-Iteracoes executadas: 170
-Valor Probabilidade: 10,649579%
-Tempo de Execução: 6,121000 segundos.
+Valor Media: 49,623455
+Iteracoes executadas: 162
+Valor Probabilidade: 10,266465%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,694118
-Iteracoes executadas: 170
-Valor Probabilidade: 10,351711%
-Tempo de Execução: 6,121000 segundos.
+Valor Media: 49,652172
+Iteracoes executadas: 184
+Valor Probabilidade: 10,326028%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 45
-Valor Media: 49,511765
-Iteracoes executadas: 170
-Valor Probabilidade: 12,430809%
-Tempo de Execução: 6,121000 segundos.
+Valor Media: 49,500000
+Iteracoes executadas: 206
+Valor Probabilidade: 12,475440%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 48
-Valor Media: 49,849998
-Iteracoes executadas: 20
-Valor Probabilidade: 6,978782%
-Tempo de Execução: 6,121000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,454056
+Iteracoes executadas: 185
+Valor Probabilidade: 12,360134%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 48
-Valor Media: 50,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,336778%
-Tempo de Execução: 6,121000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,359154
+Iteracoes executadas: 142
+Valor Probabilidade: 7,849238%
+Tempo de Execução: 6,228000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 45
-Valor Media: 49,123528
-Iteracoes executadas: 170
-Valor Probabilidade: 11,489758%
-Tempo de Execução: 6,121000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,193180
+Iteracoes executadas: 176
+Valor Probabilidade: 9,410218%
+Tempo de Execução: 6,228000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 26 de 30. Seed: 352
@@ -2564,19 +2564,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,112000
 Iteracoes executadas: 500
-Tempo de Execução: 5,744000 segundos.
+Tempo de Execução: 5,517000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,602001
 Iteracoes executadas: 500
-Tempo de Execução: 5,744000 segundos.
+Tempo de Execução: 5,517000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,284000
 Iteracoes executadas: 500
-Tempo de Execução: 5,744000 segundos.
+Tempo de Execução: 5,517000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2585,73 +2585,73 @@ Tempo de Execução: 5,744000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 46
-Valor Media: 50,419998
-Iteracoes executadas: 150
-Valor Probabilidade: 13,229279%
-Tempo de Execução: 6,606000 segundos.
+Valor Media: 50,407608
+Iteracoes executadas: 184
+Valor Probabilidade: 11,584589%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 50,349998
-Iteracoes executadas: 20
-Valor Probabilidade: 8,524490%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,013157
+Iteracoes executadas: 152
+Valor Probabilidade: 8,636987%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 50,012520
-Iteracoes executadas: 639
-Valor Probabilidade: 12,198185%
-Tempo de Execução: 6,606000 segundos.
+Valor Media: 49,951809
+Iteracoes executadas: 166
+Valor Probabilidade: 10,578689%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 50,105881
-Iteracoes executadas: 170
-Valor Probabilidade: 10,022926%
-Tempo de Execução: 6,606000 segundos.
+Valor Media: 49,837502
+Iteracoes executadas: 160
+Valor Probabilidade: 8,338387%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 48
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 7,792546%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,839779
+Iteracoes executadas: 181
+Valor Probabilidade: 10,343816%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 48
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 7,262906%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,537975
+Iteracoes executadas: 158
+Valor Probabilidade: 9,734246%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,351390%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,556290
+Iteracoes executadas: 151
+Valor Probabilidade: 9,770291%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 48
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 7,792546%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,412430
+Iteracoes executadas: 177
+Valor Probabilidade: 9,490340%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 45
-Valor Media: 49,435482
-Iteracoes executadas: 620
-Valor Probabilidade: 13,531590%
-Tempo de Execução: 6,606000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,603550
+Iteracoes executadas: 169
+Valor Probabilidade: 9,863871%
+Tempo de Execução: 6,160000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
-Valor Media: 48,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 11,294146%
-Tempo de Execução: 6,606000 segundos.
+Valor Media: 49,343285
+Iteracoes executadas: 201
+Valor Probabilidade: 11,658791%
+Tempo de Execução: 6,160000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 27 de 30. Seed: 379
@@ -2666,19 +2666,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,226002
 Iteracoes executadas: 500
-Tempo de Execução: 5,945000 segundos.
+Tempo de Execução: 5,467000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,672001
 Iteracoes executadas: 500
-Tempo de Execução: 5,945000 segundos.
+Tempo de Execução: 5,467000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,276001
 Iteracoes executadas: 500
-Tempo de Execução: 5,945000 segundos.
+Tempo de Execução: 5,467000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2687,73 +2687,73 @@ Tempo de Execução: 5,945000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,611763
-Iteracoes executadas: 170
-Valor Probabilidade: 10,481017%
-Tempo de Execução: 6,546000 segundos.
+Valor Media: 50,395481
+Iteracoes executadas: 177
+Valor Probabilidade: 9,896309%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,100000
-Valor Melhor Resultado: 48
-Valor Media: 49,799999
-Iteracoes executadas: 20
-Valor Probabilidade: 7,223509%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 50,312500
+Iteracoes executadas: 160
+Valor Probabilidade: 9,734561%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 47
-Valor Media: 50,329411
-Iteracoes executadas: 170
-Valor Probabilidade: 9,910765%
-Tempo de Execução: 6,546000 segundos.
+Valor Media: 50,118011
+Iteracoes executadas: 161
+Valor Probabilidade: 9,364742%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 47
-Valor Media: 49,952942
-Iteracoes executadas: 170
-Valor Probabilidade: 9,193891%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,978142
+Iteracoes executadas: 183
+Valor Probabilidade: 11,291685%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 50,033333
-Iteracoes executadas: 150
-Valor Probabilidade: 9,342932%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,904762
+Iteracoes executadas: 168
+Valor Probabilidade: 11,126985%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 45
-Valor Media: 49,650795
-Iteracoes executadas: 189
-Valor Probabilidade: 13,366090%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,435375
+Iteracoes executadas: 147
+Valor Probabilidade: 8,164617%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,534374
-Iteracoes executadas: 320
-Valor Probabilidade: 10,479867%
-Tempo de Execução: 6,546000 segundos.
+Valor Media: 49,491524
+Iteracoes executadas: 177
+Valor Probabilidade: 10,239200%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 45
-Valor Media: 49,289360
-Iteracoes executadas: 470
-Valor Probabilidade: 12,424354%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,452515
+Iteracoes executadas: 179
+Valor Probabilidade: 10,158777%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,450000
 Valor Melhor Resultado: 46
-Valor Media: 49,299999
-Iteracoes executadas: 20
-Valor Probabilidade: 9,994431%
-Tempo de Execução: 6,546000 segundos.
+Valor Media: 49,382858
+Iteracoes executadas: 175
+Valor Probabilidade: 10,016587%
+Tempo de Execução: 6,233000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 47
-Valor Media: 49,000000
-Iteracoes executadas: 20
-Valor Probabilidade: 7,583146%
-Tempo de Execução: 6,546000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,377907
+Iteracoes executadas: 172
+Valor Probabilidade: 10,006550%
+Tempo de Execução: 6,233000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 28 de 30. Seed: 407
@@ -2768,19 +2768,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,264000
 Iteracoes executadas: 500
-Tempo de Execução: 5,551000 segundos.
+Tempo de Execução: 5,507000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,598000
 Iteracoes executadas: 500
-Tempo de Execução: 5,551000 segundos.
+Tempo de Execução: 5,507000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,206001
 Iteracoes executadas: 500
-Tempo de Execução: 5,551000 segundos.
+Tempo de Execução: 5,507000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2789,73 +2789,73 @@ Tempo de Execução: 5,551000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,405884
-Iteracoes executadas: 170
-Valor Probabilidade: 10,081678%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 50,675159
+Iteracoes executadas: 157
+Valor Probabilidade: 9,736857%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 10,533121%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 50,237625
+Iteracoes executadas: 202
+Valor Probabilidade: 11,070283%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,150000
 Valor Melhor Resultado: 46
-Valor Media: 50,185184
-Iteracoes executadas: 189
-Valor Probabilidade: 11,963985%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 50,021976
+Iteracoes executadas: 182
+Valor Probabilidade: 10,604156%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,200000
-Valor Melhor Resultado: 47
-Valor Media: 49,805882
-Iteracoes executadas: 170
-Valor Probabilidade: 8,943893%
-Tempo de Execução: 6,374000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,886906
+Iteracoes executadas: 168
+Valor Probabilidade: 10,321279%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,494870%
-Tempo de Execução: 6,374000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,970238
+Iteracoes executadas: 168
+Valor Probabilidade: 13,074799%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,300000
-Valor Melhor Resultado: 46
-Valor Media: 49,700001
-Iteracoes executadas: 300
-Valor Probabilidade: 10,856366%
-Tempo de Execução: 6,374000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,737930
+Iteracoes executadas: 145
+Valor Probabilidade: 8,078760%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,537498
-Iteracoes executadas: 320
-Valor Probabilidade: 10,506581%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 49,677967
+Iteracoes executadas: 177
+Valor Probabilidade: 9,897054%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,294117
-Iteracoes executadas: 170
-Valor Probabilidade: 10,001645%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 49,389832
+Iteracoes executadas: 177
+Valor Probabilidade: 9,337773%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 47
-Valor Media: 49,700001
-Iteracoes executadas: 20
-Valor Probabilidade: 8,755569%
-Tempo de Execução: 6,374000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,344631
+Iteracoes executadas: 177
+Valor Probabilidade: 9,252664%
+Tempo de Execução: 6,141000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 46
-Valor Media: 49,224998
-Iteracoes executadas: 320
-Valor Probabilidade: 9,862288%
-Tempo de Execução: 6,374000 segundos.
+Valor Media: 49,000000
+Iteracoes executadas: 146
+Valor Probabilidade: 8,626378%
+Tempo de Execução: 6,141000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 29 de 30. Seed: 436
@@ -2870,19 +2870,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 46
 Valor Media: 50,264000
 Iteracoes executadas: 500
-Tempo de Execução: 5,717000 segundos.
+Tempo de Execução: 5,487000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 45
 Valor Media: 49,675999
 Iteracoes executadas: 500
-Tempo de Execução: 5,717000 segundos.
+Tempo de Execução: 5,487000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,271999
 Iteracoes executadas: 500
-Tempo de Execução: 5,717000 segundos.
+Tempo de Execução: 5,487000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2890,74 +2890,74 @@ Tempo de Execução: 5,717000 segundos.
 
 
 Valor Alfa: 0,050000
-Valor Melhor Resultado: 46
-Valor Media: 50,431252
-Iteracoes executadas: 320
-Valor Probabilidade: 12,341094%
-Tempo de Execução: 6,314000 segundos.
+Valor Melhor Resultado: 48
+Valor Media: 50,737804
+Iteracoes executadas: 164
+Valor Probabilidade: 8,457340%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,347057
-Iteracoes executadas: 170
-Valor Probabilidade: 9,788060%
-Tempo de Execução: 6,314000 segundos.
+Valor Media: 50,176830
+Iteracoes executadas: 164
+Valor Probabilidade: 9,340781%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 46
-Valor Media: 50,011765
-Iteracoes executadas: 170
-Valor Probabilidade: 11,352142%
-Tempo de Execução: 6,314000 segundos.
+Valor Melhor Resultado: 47
+Valor Media: 49,924049
+Iteracoes executadas: 158
+Valor Probabilidade: 8,880736%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 46
-Valor Media: 49,959999
-Iteracoes executadas: 300
-Valor Probabilidade: 11,235187%
-Tempo de Execução: 6,314000 segundos.
+Valor Media: 49,774193
+Iteracoes executadas: 186
+Valor Probabilidade: 10,685465%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 49,769230
-Iteracoes executadas: 39
-Valor Probabilidade: 8,720975%
-Tempo de Execução: 6,314000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,785713
+Iteracoes executadas: 182
+Valor Probabilidade: 10,710223%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
-Valor Media: 49,776470
-Iteracoes executadas: 170
-Valor Probabilidade: 10,829219%
-Tempo de Execução: 6,314000 segundos.
+Valor Media: 49,497269
+Iteracoes executadas: 183
+Valor Probabilidade: 10,105630%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,350000
 Valor Melhor Resultado: 46
-Valor Media: 49,352940
-Iteracoes executadas: 170
-Valor Probabilidade: 9,942286%
-Tempo de Execução: 6,314000 segundos.
+Valor Media: 49,215687
+Iteracoes executadas: 153
+Valor Probabilidade: 9,545238%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,400000
 Valor Melhor Resultado: 46
-Valor Media: 49,296875
-Iteracoes executadas: 320
-Valor Probabilidade: 9,829919%
-Tempo de Execução: 6,314000 segundos.
+Valor Media: 49,469273
+Iteracoes executadas: 179
+Valor Probabilidade: 10,048623%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 47
-Valor Media: 49,099998
-Iteracoes executadas: 20
-Valor Probabilidade: 7,616767%
-Tempo de Execução: 6,314000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,266235
+Iteracoes executadas: 154
+Valor Probabilidade: 9,643728%
+Tempo de Execução: 6,130000 segundos.
 
 Valor Alfa: 0,500000
-Valor Melhor Resultado: 47
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,344344%
-Tempo de Execução: 6,314000 segundos.
+Valor Melhor Resultado: 45
+Valor Media: 49,494320
+Iteracoes executadas: 176
+Valor Probabilidade: 12,582240%
+Tempo de Execução: 6,130000 segundos.
 ----------------------------------------------------------------------------------------------
 
 EXECUCAO NUM 30 de 30. Seed: 466
@@ -2972,19 +2972,19 @@ Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
 Valor Media: 50,270000
 Iteracoes executadas: 500
-Tempo de Execução: 5,722000 segundos.
+Tempo de Execução: 5,472000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 46
 Valor Media: 49,700001
 Iteracoes executadas: 500
-Tempo de Execução: 5,722000 segundos.
+Tempo de Execução: 5,472000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
 Valor Media: 49,141998
 Iteracoes executadas: 500
-Tempo de Execução: 5,722000 segundos.
+Tempo de Execução: 5,472000 segundos.
 
 ------------------------------------------------------------------------------------------------
 --------------- RESULTADOS DOS TESTES DO ALGORITMO GULOSO RANDOMIZADO REATIVO ----------------
@@ -2993,73 +2993,73 @@ Tempo de Execução: 5,722000 segundos.
 
 Valor Alfa: 0,050000
 Valor Melhor Resultado: 47
-Valor Media: 50,650002
-Iteracoes executadas: 20
-Valor Probabilidade: 10,470583%
-Tempo de Execução: 6,526000 segundos.
+Valor Media: 50,508671
+Iteracoes executadas: 173
+Valor Probabilidade: 9,909781%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,100000
 Valor Melhor Resultado: 47
-Valor Media: 50,200001
-Iteracoes executadas: 20
-Valor Probabilidade: 9,576647%
-Tempo de Execução: 6,526000 segundos.
+Valor Media: 50,376812
+Iteracoes executadas: 138
+Valor Probabilidade: 9,654092%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,150000
-Valor Melhor Resultado: 47
-Valor Media: 49,900002
-Iteracoes executadas: 20
-Valor Probabilidade: 9,019487%
-Tempo de Execução: 6,526000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,879032
+Iteracoes executadas: 124
+Valor Probabilidade: 10,838897%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,200000
 Valor Melhor Resultado: 47
-Valor Media: 49,549999
-Iteracoes executadas: 20
-Valor Probabilidade: 8,406451%
-Tempo de Execução: 6,526000 segundos.
+Valor Media: 49,909092
+Iteracoes executadas: 110
+Valor Probabilidade: 8,794298%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,250000
-Valor Melhor Resultado: 47
-Valor Media: 49,650002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,577662%
-Tempo de Execução: 6,526000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,769783
+Iteracoes executadas: 139
+Valor Probabilidade: 10,603817%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,300000
 Valor Melhor Resultado: 47
-Valor Media: 49,049999
-Iteracoes executadas: 20
-Valor Probabilidade: 7,595673%
-Tempo de Execução: 6,526000 segundos.
+Valor Media: 49,829933
+Iteracoes executadas: 147
+Valor Probabilidade: 8,655809%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,350000
-Valor Melhor Resultado: 47
-Valor Media: 49,400002
-Iteracoes executadas: 20
-Valor Probabilidade: 8,155412%
-Tempo de Execução: 6,526000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,470589
+Iteracoes executadas: 187
+Valor Probabilidade: 9,983336%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,400000
-Valor Melhor Resultado: 45
-Valor Media: 49,501568
-Iteracoes executadas: 319
-Valor Probabilidade: 12,859361%
-Tempo de Execução: 6,526000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,427231
+Iteracoes executadas: 213
+Valor Probabilidade: 9,896181%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,450000
-Valor Melhor Resultado: 45
-Valor Media: 49,354919
-Iteracoes executadas: 1220
-Valor Probabilidade: 12,483441%
-Tempo de Execução: 6,526000 segundos.
+Valor Melhor Resultado: 46
+Valor Media: 49,471111
+Iteracoes executadas: 225
+Valor Probabilidade: 9,984386%
+Tempo de Execução: 6,681000 segundos.
 
 Valor Alfa: 0,500000
 Valor Melhor Resultado: 45
-Valor Media: 49,500000
-Iteracoes executadas: 20
-Valor Probabilidade: 12,855281%
-Tempo de Execução: 6,526000 segundos.
+Valor Media: 49,160492
+Iteracoes executadas: 243
+Valor Probabilidade: 11,679390%
+Tempo de Execução: 6,681000 segundos.
 ----------------------------------------------------------------------------------------------
 
 
@@ -3087,50 +3087,50 @@ Media dos Melhores Resultados das 30 execucoes para o alfa 0,300000: 45,666668
 Media Geral das 30 execucoes para o alfa 0,500000: 49,219799
 Media dos Melhores Resultados das 30 execucoes para o alfa 0,500000: 45,233334
 
-Media de Tempo de Execucao das 30 execucoes do algoritmo guloso randomizado: 17,084597
+Media de Tempo de Execucao das 30 execucoes do algoritmo guloso randomizado: 18,969299
 
 
 MEDIAS DE RESULTADOS PARA AS 30 EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO REATIVO. INSTANCIA: qg.order40.col.
 
 
-Media Geral das 30 execucoes para o alfa 0,050000: 50,500710
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,050000: 47,133335
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,050000: 5586,000000
+Media Geral das 30 execucoes para o alfa 0,050000: 50,502834
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,050000: 46,966667
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,050000: 5369,000000
 
-Media Geral das 30 execucoes para o alfa 0,100000: 50,121029
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,100000: 46,866665
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,100000: 4779,000000
+Media Geral das 30 execucoes para o alfa 0,100000: 50,204693
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,100000: 46,700001
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,100000: 5011,000000
 
-Media Geral das 30 execucoes para o alfa 0,150000: 50,071751
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,150000: 46,733334
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,150000: 4986,000000
+Media Geral das 30 execucoes para o alfa 0,150000: 50,081570
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,150000: 46,566666
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,150000: 5069,000000
 
-Media Geral das 30 execucoes para o alfa 0,200000: 49,858082
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,200000: 46,900002
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,200000: 3486,000000
+Media Geral das 30 execucoes para o alfa 0,200000: 49,880230
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,200000: 46,400002
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,200000: 5066,000000
 
-Media Geral das 30 execucoes para o alfa 0,250000: 49,793423
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,250000: 46,666668
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,250000: 5565,000000
+Media Geral das 30 execucoes para o alfa 0,250000: 49,807205
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,250000: 46,200001
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,250000: 4960,000000
 
-Media Geral das 30 execucoes para o alfa 0,300000: 49,694805
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,300000: 46,666668
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,300000: 4329,000000
+Media Geral das 30 execucoes para o alfa 0,300000: 49,655922
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,300000: 46,366665
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,300000: 5016,000000
 
-Media Geral das 30 execucoes para o alfa 0,350000: 49,471043
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,350000: 46,366665
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,350000: 3837,000000
+Media Geral das 30 execucoes para o alfa 0,350000: 49,516041
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,350000: 46,033333
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,350000: 4977,000000
 
-Media Geral das 30 execucoes para o alfa 0,400000: 49,466423
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,400000: 46,400002
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,400000: 5417,000000
+Media Geral das 30 execucoes para o alfa 0,400000: 49,427662
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,400000: 46,000000
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,400000: 5129,000000
 
-Media Geral das 30 execucoes para o alfa 0,450000: 49,418327
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,450000: 46,099998
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,450000: 6278,000000
+Media Geral das 30 execucoes para o alfa 0,450000: 49,353161
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,450000: 45,933334
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,450000: 5249,000000
 
-Media Geral das 30 execucoes para o alfa 0,500000: 49,199387
-Media dos Melhores Resultados das 30 execucoes para o alfa 0,500000: 45,966667
-Total do Num de Iteracoes para as 30 execucoes para o alfa 0,500000: 6707,000000
+Media Geral das 30 execucoes para o alfa 0,500000: 49,226517
+Media dos Melhores Resultados das 30 execucoes para o alfa 0,500000: 45,733334
+Total do Num de Iteracoes para as 30 execucoes para o alfa 0,500000: 5124,000000
 
-Media de Tempo de Execucao das 30 execucoes do algoritmo guloso reativo: 63,790939
+Media de Tempo de Execucao das 30 execucoes do algoritmo guloso reativo: 70,512894
