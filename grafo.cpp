@@ -351,74 +351,6 @@ string Grafo::testesGuloso() {
     return results;
 }
 
-//Funcao auxiliar para a funcao de definição de probabilidades em porcentagem
-//Esta funcão retorna quanto seria os 100%, ou seja, a soma total das probailidades de cada alfa
-float getSomaProb(Alfa*vetAlfas[], int tamVetAlfas) {
-
-    float somaProb = 0;
-
-    for (int i=0; i<tamVetAlfas; i++) {
-        somaProb = somaProb + vetAlfas[i]->getProb();
-    }
-    return somaProb;
-}
-
-//POR ENQUANTO NAO ESTA SENDO UTILIZADA. CONVERSAR COM STENIO
-//Define uma probabilidade para cada alpha, sendo proporcional à média de resultados
-//Esta probabilidade é uma porcentagem referente ao quanto que a probabilidade contribui (em 100%)
-//Ou seja, um alfa com probabilidade 9% tem 9% de chance de ser escolhido na próxima iteração
-void auxdefineProbPorcent(Alfa*vetAlfas[], int tamVetAlfas) {
-
-    double porcentagem;
-
-    //garante que as probabilidades de cada alfa é definida como 1 / (média dos resultados),
-    //sendo assim, quando menor a média dos resultados daquele alfa, maior a probilidade
-    for (int i=0; i<tamVetAlfas; i++) {
-        vetAlfas[i]->setProb();
-    }
-
-    //encontra os 100%, somando as probabilidades de cada alfa
-    float somaProb = getSomaProb(vetAlfas, tamVetAlfas);
-
-    //atribui quantos porcento a probabilidade do alfa representa em relaçao a soma total das probabilidades (100%)
-    for (int i=0; i<tamVetAlfas; i++) {
-        porcentagem = (100 / somaProb) * vetAlfas[i]->getProb();
-
-        vetAlfas[i]->setProbValor(porcentagem);
-        //cout << "Porcentagem do alfa " << vetAlfas[i]->getValor() << ": " << porcentagem << "." << endl;
-    }
-}
-
-//Funcao em testes para nova definição das probabilidades
-//Nesta funcao, os alfas sao ordenados pela média dos resultaos
-//Valores de probabilidade sao atribuidos manualmente para cada alfa
-//Beneficiando os alfas com melhores resultados (menores medias)
-void defineProbPorcent(Alfa*vetAlfas[], int tamVetAlfas) {
-    //aplica um insertion sort para ordenar o vetor de alfas pelas média de resultados,
-    //da menor média de resultados para maior média de resultados
-    Alfa* chave;
-    int j;
-    for(int i = 1; i<tamVetAlfas; i++) {
-        chave = vetAlfas[i];//take value
-        j = i;
-        while(j > 0 && vetAlfas[j-1]->getMedia() > chave->getMedia()) {
-            vetAlfas[j] = vetAlfas[j-1];
-            j--;
-        }
-        vetAlfas[j] = chave;   //insert in right place
-    }
-    //vetor que dita manualmente qual porcentagem para cada alfa
-    int porcentagens [10] = {19, 12, 12, 11, 11, 10, 9, 7, 5, 4};
-    //int porcentagens [5] = {40, 25, 20, 10, 5}
-
-    //com os alfas ordenados, define as porcentagens manualmente, atribuindo para cada alfa
-    for(int i = 0; i<tamVetAlfas; i++) {
-        //cout << "Alfa: " << vetAlfas[i]->getValor() << ": " << vetAlfas[i]->getMedia() << ".\n" <<endl;
-        vetAlfas[i]->setProbValor(porcentagens[i]);
-    }
-
-}
-
 //Nesta funcao, atribui-se uma probabilidade pro alfa, sendo ela inversamente proporcional ao qi (melhor resultado/media de resultados)
 //Valores de probabilidade sao atribuidos manualmente para cada alfa
 //Beneficiando os alfas com melhores resultados (menores medias)
@@ -428,7 +360,7 @@ void defineProb(Alfa*vetAlfas[], int tamVetAlfas) {
     for(int i = 0; i < tamVetAlfas; i++) {
         float qi = pow( (vetAlfas[i]->getMelhorResult() / vetAlfas[i]->getMedia()), 10);
         //faz com que a probabilidade seja inversamente proporcionao ao qi
-        qi = 1 / qi;
+        //qi = 1 / qi;
         vetAlfas[i]->setProbValor(qi);
     }
 
@@ -449,23 +381,6 @@ void defineProb(Alfa*vetAlfas[], int tamVetAlfas) {
         vetAlfas[i]->setProbValor(porcentagem);
         //cout << "Porcentagem do alfa " << vetAlfas[i]->getValor() << ": " << porcentagem << "." << endl;
     }
-
-    /*
-    //aplica um insertion sort para ordenar o vetor de alfas pelas probabilidades de escolha,
-    //da maior prob de escolha para maior prob de escolha. Apenas para facilitar a visualizacao
-    Alfa* chave;
-    int j;
-
-    for(int i = 1; i<tamVetAlfas; i++) {
-        chave = vetAlfas[i];//take value
-        j = i;
-        while(j > 0 && vetAlfas[j-1]->getProb() < chave->getProb()) {
-            vetAlfas[j] = vetAlfas[j-1];
-            j--;
-        }
-        vetAlfas[j] = chave;
-    }
-    */
 }
 
 string Grafo:: testesGulosoRand(int seed, Solucao* solucao, double vetAlfas[], int tamVetAlfas) {
@@ -634,7 +549,7 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
             defineProb(vetorAlfas, tamVetAlfas);
 
         } else {
-            //sorteia um valor entre 1 e 100 (porcentagem) para definir qual alfa será escolhido para próxima iteracao
+            //sorteia um valor entre 1 e 101 (porcentagem) para definir qual alfa será escolhido para próxima iteracao
             srand(seed * j);
 
             sorteiaAlfa = rand() % 101;
