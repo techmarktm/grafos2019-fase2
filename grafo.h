@@ -21,7 +21,7 @@ class Vertice {
     int grau;      //Grau do vertice
     Aresta *pri;   //Primeira aresta do v�rtice
     Vertice *prox; //Proximo vertice em relacao ao consultado
-    int cor; //ID da cor do vertice
+    unsigned int cor; //ID da cor do vertice
 
   public:
     Vertice(int ID);              //construtor
@@ -63,7 +63,7 @@ class Alfa {
     double valor;
     float mediaResultados;
     float totalCores;
-    int melhorResultado;
+    unsigned int melhorResultado;
     float probabilidade;
     float iteracoes;
   public:
@@ -89,10 +89,14 @@ class Solucao {
         double alfasRand[3];
         float totalMelhoresGulosoRand[3];
         float totalMediaGulosoRand[3];
+        float tempoMedioGulosoRand;
+
         double alfasReat[10];
         float totalMelhoresGulosoReat[10];
         float totalMediaGulosoReat[10];
         float totalItGulosoReat[10];
+        float tempoMedioGulosoReat;
+
         Solucao();
         ~Solucao(){};
 };

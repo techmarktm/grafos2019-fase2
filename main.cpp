@@ -118,15 +118,17 @@ int main(int argc, char *argv[]) {
     int tamVetAlfasReat = (sizeof(vetAlfasReat)/sizeof(*vetAlfasReat));
 
     //Define quantas iteracoes serao executadas para cada instancia de entrada
-    int numIteracoes = 30;
+    int numExecucoes = 30;
 
     clockIni = clock();
 
-    //Realiza as numIteracoes para executar com cada instancia
-    for (int i = 1; i <= numIteracoes; i++) {
-        int seed = i;
-        cout << "\nITERACAO NUM " << i << " e seed: " << seed << endl;
-        saida += "\nITERACAO NUM " + to_string(i) + " e seed: " + to_string(seed) + "\n";
+    int seed = 1; //seed inicial. A cada execucao dos algoritmos, mudará a seed.
+
+    //Realiza as numExecucoes para executar com cada instancia
+    for (int i = 1; i <= numExecucoes; i++) {
+        seed += i;
+        cout << "\nEXECUCAO NUM " << i << " de 30. Seed: " << seed << endl;
+        saida += "\nEXECUCAO NUM " + to_string(i) + " de 30. Seed: " + to_string(seed) + "\n";
 
         saida += grafo->testesGulosoRand(seed, solucao, vetAlfasRand, tamVetAlfasRand);
         saida += grafo->testesGulosoRandReativo(seed, solucao, vetAlfasReat, tamVetAlfasReat);
@@ -138,41 +140,46 @@ int main(int argc, char *argv[]) {
     saida += grafo->testesGuloso();
 
 
-    cout << "\nMEDIAS DE RESULTADOS PARA AS " << numIteracoes << " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO. INSTANCIA: " << arquivoEntrada << "." << endl;
-    saida += "\n\nMEDIAS DE RESULTADOS PARA AS " + to_string(numIteracoes) + " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO. INSTANCIA: " + arquivoEntrada + ".\n";
+    cout << "\nMEDIAS DE RESULTADOS PARA AS " << numExecucoes << " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO. INSTANCIA: " << arquivoEntrada << "." << endl;
+    saida += "\n\nMEDIAS DE RESULTADOS PARA AS " + to_string(numExecucoes) + " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO. INSTANCIA: " + arquivoEntrada + ".\n";
 
 
     for (int i=0; i < 3; i++){
 
-        cout << "\nMedia Geral das " << numIteracoes << " execucoes para o alfa " << solucao->alfasRand[i]  << ": " << solucao->totalMediaGulosoRand[i] / numIteracoes << endl;
-        saida += "\n\nMedia Geral das " + to_string(numIteracoes) + " execucoes para o alfa " + to_string(solucao->alfasRand[i]) + ": " + to_string(solucao->totalMediaGulosoRand[i] / numIteracoes);
+        cout << "\nMedia Geral das " << numExecucoes << " execucoes para o alfa " << solucao->alfasRand[i]  << ": " << solucao->totalMediaGulosoRand[i] / numExecucoes << endl;
+        saida += "\n\nMedia Geral das " + to_string(numExecucoes) + " execucoes para o alfa " + to_string(solucao->alfasRand[i]) + ": " + to_string(solucao->totalMediaGulosoRand[i] / numExecucoes);
 
-        cout << "Media dos Melhores Resultados das " << numIteracoes << " execucoes para o alfa " << solucao->alfasRand[i]  << ": " << solucao->totalMelhoresGulosoRand[i] / numIteracoes << endl;
-        saida += "\nMedia dos Melhores Resultados das " + to_string(numIteracoes) + " execucoes para o alfa " + to_string(solucao->alfasRand[i])  + ": " + to_string(solucao->totalMelhoresGulosoRand[i] / numIteracoes);
+        cout << "Media dos Melhores Resultados das " << numExecucoes << " execucoes para o alfa " << solucao->alfasRand[i]  << ": " << solucao->totalMelhoresGulosoRand[i] / numExecucoes << endl;
+        saida += "\nMedia dos Melhores Resultados das " + to_string(numExecucoes) + " execucoes para o alfa " + to_string(solucao->alfasRand[i])  + ": " + to_string(solucao->totalMelhoresGulosoRand[i] / numExecucoes);
     }
 
-    cout << "\n\nMEDIAS DE RESULTADOS PARA AS " << numIteracoes << " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO REATIVO. INSTANCIA: " << arquivoEntrada << "." << endl;
-    saida += "\n\n\nMEDIAS DE RESULTADOS PARA AS " + to_string(numIteracoes) + " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO REATIVO. INSTANCIA: " + arquivoEntrada + ".\n";
+    cout << "\nMedia de Tempo de Execucao das " << numExecucoes << " execucoes do algoritmo guloso randomizado: " << solucao->tempoMedioGulosoRand / numExecucoes << endl;
+    saida += "\n\nMedia de Tempo de Execucao das " + to_string(numExecucoes) + " execucoes do algoritmo guloso randomizado: " + to_string(solucao->tempoMedioGulosoRand / numExecucoes);
+
+    cout << "\n\nMEDIAS DE RESULTADOS PARA AS " << numExecucoes << " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO REATIVO. INSTANCIA: " << arquivoEntrada << "." << endl;
+    saida += "\n\n\nMEDIAS DE RESULTADOS PARA AS " + to_string(numExecucoes) + " EXECUCOES DO ALGORITMO GULOSO RANDOMIZADO REATIVO. INSTANCIA: " + arquivoEntrada + ".\n";
 
     for (int i=0; i < 10; i++){
 
-        cout << "\nMedia Geral das " << numIteracoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalMediaGulosoReat[i] / numIteracoes << endl;
-        saida += "\n\nMedia Geral das " + to_string(numIteracoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalMediaGulosoReat[i] / numIteracoes);
+        cout << "\nMedia Geral das " << numExecucoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalMediaGulosoReat[i] / numExecucoes << endl;
+        saida += "\n\nMedia Geral das " + to_string(numExecucoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalMediaGulosoReat[i] / numExecucoes);
 
-        cout << "Media dos Melhores Resultados das " << numIteracoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalMelhoresGulosoReat[i] / numIteracoes << endl;
-        saida +=  "\nMedia dos Melhores Resultados das " + to_string(numIteracoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalMelhoresGulosoReat[i] / numIteracoes);
+        cout << "Media dos Melhores Resultados das " << numExecucoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalMelhoresGulosoReat[i] / numExecucoes << endl;
+        saida +=  "\nMedia dos Melhores Resultados das " + to_string(numExecucoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalMelhoresGulosoReat[i] / numExecucoes);
 
-        cout << "Total do Num de Iteracoes para as " << numIteracoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalItGulosoReat[i] << endl;
-        saida += "\nTotal do Num de Iteracoes para as " + to_string(numIteracoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalItGulosoReat[i]);
+        cout << "Total do Num de Iteracoes para as " << numExecucoes << " execucoes para o alfa " << solucao->alfasReat[i]  << ": " << solucao->totalItGulosoReat[i] << endl;
+        saida += "\nTotal do Num de Iteracoes para as " + to_string(numExecucoes) + " execucoes para o alfa " + to_string(solucao->alfasReat[i])  + ": " + to_string(solucao->totalItGulosoReat[i]);
     }
 
+    cout << "\nMedia de Tempo de Execucao das " << numExecucoes << " execucoes do algoritmo guloso reativo: " << solucao->tempoMedioGulosoReat / numExecucoes << endl;
+    saida += "\n\nMedia de Tempo de Execucao das " + to_string(numExecucoes) + " execucoes do algoritmo guloso reativo: " + to_string(solucao->tempoMedioGulosoReat / numExecucoes);
     cout << "\n\n";
 
     //Nomeia o arquivo de Saida com o nome da instancia
-    string saidaInst = "results-instancia-";
-    saidaInst += arquivoEntrada + ".txt";
+    //string saidaInst = "results-instancia-";
+    //saidaInst += arquivoEntrada + ".txt";
 
-    salvarTxt(saida, saidaInst);
+    salvarTxt(saida, arquivoSaida);
     delete solucao;
 
     clockFim = clock(); //finaliza contador de tempo de execucao

@@ -168,7 +168,8 @@ void Grafo::limpaCores() {
 }
 
 //Algoritmo de comparacao para ordenacao.
-//Retorna True se o grau do primeiro vertice passado por parametro é menor que o grau do segundo e false c.c
+//Retorna True se o grau do primeiro vertice passado por parametro é maior > que o grau do segundo e false c.c
+//Usado para ordenar o vetor de candidatos do menor para o maior grau
 bool geq(Vertice* g1, Vertice* g2) {
     if(g1->getGrau() > g2->getGrau())
         return true;
@@ -293,7 +294,7 @@ int Grafo::algoritmoGulosoRand(int seed, float alfa) {
         }
 
         //percore em busca da cor disponivel com menor rótulo possivel e atribui pro vertice atual
-        for(int disp = 1; disp < tamanhoGrafo; disp++) {
+        for(unsigned int disp = 1; disp < tamanhoGrafo; disp++) {
             if(coresVizinhos[disp] == false) {
                 vertices[verticeRand]->setCor(disp);
                 break;
@@ -315,7 +316,7 @@ int Grafo::algoritmoGulosoRand(int seed, float alfa) {
     }
 
     //Calcula o total de cores usadas
-    int numCores = 0;
+    unsigned int numCores = 0;
     for (Vertice *v = vPri; v != NULL; v = v->getprox()) {
         if(v->getCor() > numCores)
             numCores = v->getCor();
@@ -423,7 +424,7 @@ void defineProbPorcent(Alfa*vetAlfas[], int tamVetAlfas) {
 //Beneficiando os alfas com melhores resultados (menores medias)
 void defineProb(Alfa*vetAlfas[], int tamVetAlfas) {
 
-    //calcula o qi (melhor result/media result elevado a 10)
+    //calcula o qi (1 / (melhor result/media result elevado a 10)
     for(int i = 0; i < tamVetAlfas; i++) {
         float qi = pow( (vetAlfas[i]->getMelhorResult() / vetAlfas[i]->getMedia()), 10);
         //faz com que a probabilidade seja inversamente proporcionao ao qi
@@ -483,7 +484,7 @@ string Grafo:: testesGulosoRand(int seed, Solucao* solucao, double vetAlfas[], i
 
     relInicio = clock(); //finaliza contador de tempo de execucao
 
-    float resulAtual;
+    unsigned int resulAtual;
 
     Alfa* vetorAlfas[tamVetAlfas];
 
@@ -494,7 +495,7 @@ string Grafo:: testesGulosoRand(int seed, Solucao* solucao, double vetAlfas[], i
     }
 
     //armazena o numero de iteracoes que o teste deve executar (como descrito no enunciado do trabalho)
-    int numIteracoes = 100;
+    int numIteracoes = 500;
 
     //percorre todos os alfas
     for (int i = 0; i < tamVetAlfas; i++) {
@@ -552,6 +553,7 @@ string Grafo:: testesGulosoRand(int seed, Solucao* solucao, double vetAlfas[], i
         solucao->alfasRand[i] = vetorAlfas[i]->getValor();
         solucao->totalMelhoresGulosoRand[i] += vetorAlfas[i]->getMelhorResult();
         solucao->totalMediaGulosoRand[i] += vetorAlfas[i]->getMedia();
+        solucao->tempoMedioGulosoRand += tempoExec;
     }
 
     return results;
@@ -570,7 +572,7 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
     clock_t relInicio = clock();
     clock_t relFim;
 
-    int resulAtual; //armazena o resultado atual de cada iteracao
+    unsigned int resulAtual; //armazena o resultado atual de cada iteracao
     float media; //armazena a media da iteracao, para aplicar o valor na média do alfa
     int sorteiaAlfa; //receberá um valor aleatório entre 1 e 100, que definirá qual alfa será escolhido para próxima iteracao
     int alfaEscolhido; //id do vetor de alfas do alfa escolhido no sorteio
@@ -585,11 +587,11 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
 
 
     //armazena o numero de iteracoes que o teste deve executar (como descrito no enunciado do trabalho)
-    int numIteracoes = 1020;
+    int numIteracoes = 1520;
     //o teste inicial defini as primeiras n iterações, à fim de distribuir as médias e probabilidades dos resultados iniciais
     int testeInicial = 20;
     //define de quantas em quantas iteracoes será sorteado um novo alfa para ser aplicado na coloração
-    int intervaloAttAlfa = 20;
+    int intervaloAttAlfa = 150;
 
     //aplica as iteracoes de testes
     for (int j=0; j < numIteracoes; j++) {
@@ -627,17 +629,15 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
                 }
 
             }
-        } else if (j == testeInicial) {
-            //logo apos o teste inicial, já possuindo as médias, sorteia um alfa para próxima iteracao
-            //Lembrando que as menores médias tem mais chance de ser sorteadas (chances definidas em defineProbPorcent)
-
+        } else if (j == testeInicial){ //apos os 20 testes iniciais, define as probabilidades e começa o guloso reativo de fato
             //define as probabilidades/porcentagens de chance de cada alfa baseados na sua média de resultados do teste inicial
             defineProb(vetorAlfas, tamVetAlfas);
 
+        } else {
             //sorteia um valor entre 1 e 100 (porcentagem) para definir qual alfa será escolhido para próxima iteracao
             srand(seed * j);
 
-            sorteiaAlfa = rand() % 101 + 1;
+            sorteiaAlfa = rand() % 101;
 
             //buffer que soma todas as porcentagens, a fim de verificar qual alfa foi encontrado no sorteio
             float bufferProb = 0;
@@ -652,7 +652,7 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
                     break;
                 }
             }
-        } else {
+
             //os testes subsequentes, realizam a coloracao sempre com o alfa sorteado
             //e mais uma vez lembrando que os alfas com menores médias de resultados terao mais chance de serem sorteados para ser usado na coloracao
             resulAtual = algoritmoGulosoRand(seed * j, vetorAlfas[alfaEscolhido]->getValor());
@@ -676,18 +676,6 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
             if (j % intervaloAttAlfa == 0) {
                 srand(seed*j);
                 defineProb(vetorAlfas, tamVetAlfas);
-                sorteiaAlfa = rand() % 101 + 1;
-                //cout << "\nALFA SORTEADO: " << sorteiaAlfa << endl;
-                float bufferProb = 0;
-                for (int i = 0; i < tamVetAlfas; i++) {
-                    bufferProb += vetorAlfas[i]->getProb();
-                    if (sorteiaAlfa <= bufferProb) {
-                        alfaEscolhido = i;
-                        //cout << "\n\nALFA ESCOLHIDO: " << alfaEscolhido << endl;
-                        break;
-                    }
-                }
-
             }
         }
 
@@ -715,12 +703,13 @@ string Grafo:: testesGulosoRandReativo(int seed, Solucao* solucao, double vetAlf
 
     results += "\n----------------------------------------------------------------------------------------------\n";
 
-    //atribui os resultados a solucao para calcular as medias dos resultados
+    //atribui os resultados a solucao para calcular as medias dos resultados das 30 iteracoes
     for (int i = 0; i < 10; i++){
         solucao->alfasReat[i] = vetorAlfas[i]->getValor();
         solucao->totalMelhoresGulosoReat[i] += vetorAlfas[i]->getMelhorResult();
         solucao->totalMediaGulosoReat[i] += vetorAlfas[i]->getMedia();
         solucao->totalItGulosoReat[i] += vetorAlfas[i]->getIt();
+        solucao->tempoMedioGulosoReat += tempoExec;
     }
 
     return results;

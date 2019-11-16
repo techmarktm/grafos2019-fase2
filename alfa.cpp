@@ -75,12 +75,14 @@ Solucao::Solucao(){
      for (int i = 0; i < 3; i++){
         totalMelhoresGulosoRand[i] = 0;
         totalMediaGulosoRand[i] = 0;
+        tempoMedioGulosoRand = 0;
      }
 
      for (int i = 0; i < 10; i++){
         totalMelhoresGulosoReat[i] = 0;
         totalMediaGulosoReat[i] = 0;
         totalItGulosoReat[i] = 0;
+        tempoMedioGulosoReat = 0;
      }
 }
 

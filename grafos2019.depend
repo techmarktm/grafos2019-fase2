@@ -218,13 +218,13 @@
 	<string>
 	<sstream>
 
-1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\alfa.cpp
+1573740840 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\alfa.cpp
 	"grafo.h"
 	<iostream>
 	<string>
 	<sstream>
 
-1573228149 c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.h
+1573768387 c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.h
 	<string>
 	<sstream>
 	<vector>
@@ -259,7 +259,7 @@
 	<locale.h>
 	<ctime>
 
-1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.cpp
+1573860748 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\grafo.cpp
 	"grafo.h"
 	<iostream>
 	<time.h>
@@ -274,7 +274,7 @@
 	<vector>
 	<algorithm>
 
-1573228149 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\main.cpp
+1573784827 source:c:\users\tm\documents\code blocks\projetos\grafos2019-fase2\main.cpp
 	<iostream>
 	<fstream>
 	<string>
